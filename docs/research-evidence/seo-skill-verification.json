@@ -1,0 +1,137 @@
+{
+  "checked_on": "2026-10-28",
+  "count": 13,
+  "checks": "13 SKILL.md files present; frontmatter and names present; SHA-256 recorded; no bundled script executed",
+  "skills": [
+    {
+      "path": "tools/seo-skills/aaron-he-zhu/content-writer/SKILL.md",
+      "name": "content-writer",
+      "frontmatter": true,
+      "bytes": 14776,
+      "sha256": "cf0138f710988b2cb698d3be52ee92119f69222710dc7753a843ecfb9b463f80",
+      "claude_runtime_paths": true,
+      "bundled_python_files": 0,
+      "local_references": 7
+    },
+    {
+      "path": "tools/seo-skills/addyosmani/seo/SKILL.md",
+      "name": "seo",
+      "frontmatter": true,
+      "bytes": 13977,
+      "sha256": "57cd16566c2c706186b643644dec2884da89c42f296843364c65a40a4d566ae6",
+      "claude_runtime_paths": false,
+      "bundled_python_files": 0,
+      "local_references": 1
+    },
+    {
+      "path": "tools/seo-skills/agricidaniel/seo/SKILL.md",
+      "name": "seo",
+      "frontmatter": true,
+      "bytes": 20106,
+      "sha256": "ad70014bb87698596bdb062dfe3155d6e194ff013c9dee43fe121b5533a004db",
+      "claude_runtime_paths": true,
+      "bundled_python_files": 0,
+      "local_references": 17
+    },
+    {
+      "path": "tools/seo-skills/agricidaniel/seo-competitor-pages/SKILL.md",
+      "name": "seo-competitor-pages",
+      "frontmatter": true,
+      "bytes": 8065,
+      "sha256": "c362585c6a9a6f333dac56fbf0505ba32f6da1a1945e9967f96e2ac42a920df2",
+      "claude_runtime_paths": false,
+      "bundled_python_files": 0,
+      "local_references": 0
+    },
+    {
+      "path": "tools/seo-skills/agricidaniel/seo-content/SKILL.md",
+      "name": "seo-content",
+      "frontmatter": true,
+      "bytes": 13204,
+      "sha256": "b167c03c9cde9b973aee4930b4eb6b7dc14b0f994b9a75d265a3864852d9f323",
+      "claude_runtime_paths": true,
+      "bundled_python_files": 0,
+      "local_references": 0
+    },
+    {
+      "path": "tools/seo-skills/agricidaniel/seo-sitemap/SKILL.md",
+      "name": "seo-sitemap",
+      "frontmatter": true,
+      "bytes": 6461,
+      "sha256": "82ea937aece6c793e94cc7b715a9c6e713d44f2b68a49330fe90f82383285ce3",
+      "claude_runtime_paths": true,
+      "bundled_python_files": 0,
+      "local_references": 0
+    },
+    {
+      "path": "tools/seo-skills/anthropics/seo-audit/SKILL.md",
+      "name": "seo-audit",
+      "frontmatter": true,
+      "bytes": 9526,
+      "sha256": "25008ccdda6f4d9b7ba05f11120d0b9cc976c2d0b04f3d86605e63b1a54a8c40",
+      "claude_runtime_paths": false,
+      "bundled_python_files": 0,
+      "local_references": 0
+    },
+    {
+      "path": "tools/seo-skills/coreyhaines31/ai-seo/SKILL.md",
+      "name": "ai-seo",
+      "frontmatter": true,
+      "bytes": 36784,
+      "sha256": "01de1dc928391751a422ca04ac3cb8cbb6f9156e0b21a306583386d62a6bc4d7",
+      "claude_runtime_paths": false,
+      "bundled_python_files": 0,
+      "local_references": 15
+    },
+    {
+      "path": "tools/seo-skills/coreyhaines31/programmatic-seo/SKILL.md",
+      "name": "programmatic-seo",
+      "frontmatter": true,
+      "bytes": 7677,
+      "sha256": "5fbbf874bcc65cbc8b527bd6074a21168c73e191e1bc2c124438dfae710ccf04",
+      "claude_runtime_paths": false,
+      "bundled_python_files": 0,
+      "local_references": 2
+    },
+    {
+      "path": "tools/seo-skills/coreyhaines31/seo-audit/SKILL.md",
+      "name": "seo-audit",
+      "frontmatter": true,
+      "bytes": 18192,
+      "sha256": "e0ebb5808787f2ff26b96d7b429423874d9785541cd4ab775629a5cf1137e7a9",
+      "claude_runtime_paths": false,
+      "bundled_python_files": 0,
+      "local_references": 7
+    },
+    {
+      "path": "tools/seo-skills/iannuttall/seo/SKILL.md",
+      "name": "seo",
+      "frontmatter": true,
+      "bytes": 3283,
+      "sha256": "ad4b591311d9f6e50347453b4cf27e6f1458e187069b39048ec4512466924b8d",
+      "claude_runtime_paths": false,
+      "bundled_python_files": 0,
+      "local_references": 0
+    },
+    {
+      "path": "tools/seo-skills/resciencelab/seo-geo/SKILL.md",
+      "name": "seo-geo",
+      "frontmatter": true,
+      "bytes": 8364,
+      "sha256": "9a24534b9e15273abdcf370b6d539337ef730822aba36346bd3692de06ff6abb",
+      "claude_runtime_paths": false,
+      "bundled_python_files": 10,
+      "local_references": 6
+    },
+    {
+      "path": "tools/seo-skills/sanity-io/seo-aeo-best-practices/SKILL.md",
+      "name": "seo-aeo-best-practices",
+      "frontmatter": true,
+      "bytes": 1874,
+      "sha256": "21d5865242c9939ee524ec0cc396c3098ccd7eac846ca9e043789beef22c9c25",
+      "claude_runtime_paths": false,
+      "bundled_python_files": 0,
+      "local_references": 4
+    }
+  ]
+}

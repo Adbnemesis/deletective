@@ -1,0 +1,23 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "deletective",
+  "main": "apps/realtime/worker.ts",
+  "compatibility_date": "2026-10-28",
+  "assets": { "directory": "./dist", "binding": "ASSETS", "html_handling": "drop-trailing-slash", "run_worker_first": ["/api/*", "/room", "/room/*"] },
+  "durable_objects": { "bindings": [ { "name": "ROOMS", "class_name": "GameRoom" }, { "name": "GATES", "class_name": "AbuseGate" } ] },
+  "migrations": [ { "tag": "v1", "new_sqlite_classes": ["GameRoom", "AbuseGate"] } ],
+  "vars": { "ENVIRONMENT": "development" },
+  "observability": { "enabled": false },
+  "env": {
+    "staging": {
+      "name": "deletective-staging",
+      "durable_objects": { "bindings": [ { "name": "ROOMS", "class_name": "GameRoom" }, { "name": "GATES", "class_name": "AbuseGate" } ] },
+      "vars": { "ENVIRONMENT": "staging" }
+    },
+    "production": {
+      "name": "deletective",
+      "durable_objects": { "bindings": [ { "name": "ROOMS", "class_name": "GameRoom" }, { "name": "GATES", "class_name": "AbuseGate" } ] },
+      "vars": { "ENVIRONMENT": "production" }
+    }
+  }
+}

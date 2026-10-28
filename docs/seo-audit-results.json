@@ -1,0 +1,3443 @@
+{
+  "checkedAt": "2026-10-28T16:40:00.955Z",
+  "buildDirectory": "dist",
+  "base": "http://127.0.0.1:8787",
+  "expectedSite": null,
+  "mode": "provisional-noindex",
+  "checks": [
+    {
+      "name": "build /: title",
+      "status": "pass",
+      "detail": "Deletective — A free online party game with friends"
+    },
+    {
+      "name": "build /: description",
+      "status": "pass",
+      "detail": "141 characters"
+    },
+    {
+      "name": "build /: language",
+      "status": "pass",
+      "detail": "English document language"
+    },
+    {
+      "name": "build /: viewport",
+      "status": "pass",
+      "detail": "Responsive viewport"
+    },
+    {
+      "name": "build /: meaningful initial HTML",
+      "status": "pass",
+      "detail": "1599 main-content characters before JavaScript"
+    },
+    {
+      "name": "build /: primary heading",
+      "status": "pass",
+      "detail": "1 h1: What did they delete ?!"
+    },
+    {
+      "name": "build /: Open Graph",
+      "status": "pass",
+      "detail": "Title and description present"
+    },
+    {
+      "name": "build /: index policy",
+      "status": "pass",
+      "detail": "noindex, nofollow"
+    },
+    {
+      "name": "build /: no unowned canonical",
+      "status": "pass",
+      "detail": "omitted while provisional"
+    },
+    {
+      "name": "build /: JSON-LD syntax",
+      "status": "pass",
+      "detail": "1 JSON-LD block(s), parsed"
+    },
+    {
+      "name": "build /: truthful free app schema",
+      "status": "pass",
+      "detail": "Describes current free browser application"
+    },
+    {
+      "name": "build /: no invented ratings",
+      "status": "pass",
+      "detail": "No rating/review/popularity data supplied"
+    },
+    {
+      "name": "build /2-player: title",
+      "status": "pass",
+      "detail": "A free 2-player browser game — Play Deletective Duo"
+    },
+    {
+      "name": "build /2-player: description",
+      "status": "pass",
+      "detail": "155 characters"
+    },
+    {
+      "name": "build /2-player: language",
+      "status": "pass",
+      "detail": "English document language"
+    },
+    {
+      "name": "build /2-player: viewport",
+      "status": "pass",
+      "detail": "Responsive viewport"
+    },
+    {
+      "name": "build /2-player: meaningful initial HTML",
+      "status": "pass",
+      "detail": "1748 main-content characters before JavaScript"
+    },
+    {
+      "name": "build /2-player: primary heading",
+      "status": "pass",
+      "detail": "1 h1: Your friend is a terrible influence. Perfect."
+    },
+    {
+      "name": "build /2-player: Open Graph",
+      "status": "pass",
+      "detail": "Title and description present"
+    },
+    {
+      "name": "build /2-player: index policy",
+      "status": "pass",
+      "detail": "noindex, nofollow"
+    },
+    {
+      "name": "build /2-player: no unowned canonical",
+      "status": "pass",
+      "detail": "omitted while provisional"
+    },
+    {
+      "name": "build /2-player: JSON-LD syntax",
+      "status": "pass",
+      "detail": "1 JSON-LD block(s), parsed"
+    },
+    {
+      "name": "build /2-player: truthful free app schema",
+      "status": "pass",
+      "detail": "Describes current free browser application"
+    },
+    {
+      "name": "build /2-player: no invented ratings",
+      "status": "pass",
+      "detail": "No rating/review/popularity data supplied"
+    },
+    {
+      "name": "build /couples: title",
+      "status": "pass",
+      "detail": "A funny online game for couples — Deletective date night"
+    },
+    {
+      "name": "build /couples: description",
+      "status": "pass",
+      "detail": "173 characters"
+    },
+    {
+      "name": "build /couples: language",
+      "status": "pass",
+      "detail": "English document language"
+    },
+    {
+      "name": "build /couples: viewport",
+      "status": "pass",
+      "detail": "Responsive viewport"
+    },
+    {
+      "name": "build /couples: meaningful initial HTML",
+      "status": "pass",
+      "detail": "1799 main-content characters before JavaScript"
+    },
+    {
+      "name": "build /couples: primary heading",
+      "status": "pass",
+      "detail": "1 h1: Date night, with a plot twist."
+    },
+    {
+      "name": "build /couples: Open Graph",
+      "status": "pass",
+      "detail": "Title and description present"
+    },
+    {
+      "name": "build /couples: index policy",
+      "status": "pass",
+      "detail": "noindex, nofollow"
+    },
+    {
+      "name": "build /couples: no unowned canonical",
+      "status": "pass",
+      "detail": "omitted while provisional"
+    },
+    {
+      "name": "build /couples: JSON-LD syntax",
+      "status": "pass",
+      "detail": "1 JSON-LD block(s), parsed"
+    },
+    {
+      "name": "build /couples: truthful free app schema",
+      "status": "pass",
+      "detail": "Describes current free browser application"
+    },
+    {
+      "name": "build /couples: no invented ratings",
+      "status": "pass",
+      "detail": "No rating/review/popularity data supplied"
+    },
+    {
+      "name": "build /party: title",
+      "status": "pass",
+      "detail": "Free online party game for 3–10 friends — Deletective"
+    },
+    {
+      "name": "build /party: description",
+      "status": "pass",
+      "detail": "150 characters"
+    },
+    {
+      "name": "build /party: language",
+      "status": "pass",
+      "detail": "English document language"
+    },
+    {
+      "name": "build /party: viewport",
+      "status": "pass",
+      "detail": "Responsive viewport"
+    },
+    {
+      "name": "build /party: meaningful initial HTML",
+      "status": "pass",
+      "detail": "1985 main-content characters before JavaScript"
+    },
+    {
+      "name": "build /party: primary heading",
+      "status": "pass",
+      "detail": "1 h1: The whole gang has some explaining to do."
+    },
+    {
+      "name": "build /party: Open Graph",
+      "status": "pass",
+      "detail": "Title and description present"
+    },
+    {
+      "name": "build /party: index policy",
+      "status": "pass",
+      "detail": "noindex, nofollow"
+    },
+    {
+      "name": "build /party: no unowned canonical",
+      "status": "pass",
+      "detail": "omitted while provisional"
+    },
+    {
+      "name": "build /party: JSON-LD syntax",
+      "status": "pass",
+      "detail": "1 JSON-LD block(s), parsed"
+    },
+    {
+      "name": "build /party: truthful free app schema",
+      "status": "pass",
+      "detail": "Describes current free browser application"
+    },
+    {
+      "name": "build /party: no invented ratings",
+      "status": "pass",
+      "detail": "No rating/review/popularity data supplied"
+    },
+    {
+      "name": "build /daily: title",
+      "status": "pass",
+      "detail": "Daily deleted-message challenge — Deletective"
+    },
+    {
+      "name": "build /daily: description",
+      "status": "pass",
+      "detail": "156 characters"
+    },
+    {
+      "name": "build /daily: language",
+      "status": "pass",
+      "detail": "English document language"
+    },
+    {
+      "name": "build /daily: viewport",
+      "status": "pass",
+      "detail": "Responsive viewport"
+    },
+    {
+      "name": "build /daily: meaningful initial HTML",
+      "status": "pass",
+      "detail": "356 main-content characters before JavaScript"
+    },
+    {
+      "name": "build /daily: primary heading",
+      "status": "pass",
+      "detail": "1 h1: One chat. Your imagination."
+    },
+    {
+      "name": "build /daily: Open Graph",
+      "status": "pass",
+      "detail": "Title and description present"
+    },
+    {
+      "name": "build /daily: index policy",
+      "status": "pass",
+      "detail": "noindex, nofollow"
+    },
+    {
+      "name": "build /daily: no unowned canonical",
+      "status": "pass",
+      "detail": "omitted while provisional"
+    },
+    {
+      "name": "build /daily: JSON-LD syntax",
+      "status": "pass",
+      "detail": "1 JSON-LD block(s), parsed"
+    },
+    {
+      "name": "build /daily: truthful free app schema",
+      "status": "pass",
+      "detail": "Describes current free browser application"
+    },
+    {
+      "name": "build /daily: no invented ratings",
+      "status": "pass",
+      "detail": "No rating/review/popularity data supplied"
+    },
+    {
+      "name": "build /how-to-play: title",
+      "status": "pass",
+      "detail": "How to play Deletective — Rules, modes, and scoring"
+    },
+    {
+      "name": "build /how-to-play: description",
+      "status": "pass",
+      "detail": "158 characters"
+    },
+    {
+      "name": "build /how-to-play: language",
+      "status": "pass",
+      "detail": "English document language"
+    },
+    {
+      "name": "build /how-to-play: viewport",
+      "status": "pass",
+      "detail": "Responsive viewport"
+    },
+    {
+      "name": "build /how-to-play: meaningful initial HTML",
+      "status": "pass",
+      "detail": "2380 main-content characters before JavaScript"
+    },
+    {
+      "name": "build /how-to-play: primary heading",
+      "status": "pass",
+      "detail": "1 h1: A deleted message. You fill in the rest."
+    },
+    {
+      "name": "build /how-to-play: Open Graph",
+      "status": "pass",
+      "detail": "Title and description present"
+    },
+    {
+      "name": "build /how-to-play: index policy",
+      "status": "pass",
+      "detail": "noindex, nofollow"
+    },
+    {
+      "name": "build /how-to-play: no unowned canonical",
+      "status": "pass",
+      "detail": "omitted while provisional"
+    },
+    {
+      "name": "build /how-to-play: JSON-LD syntax",
+      "status": "pass",
+      "detail": "1 JSON-LD block(s), parsed"
+    },
+    {
+      "name": "build /how-to-play: truthful free app schema",
+      "status": "pass",
+      "detail": "Describes current free browser application"
+    },
+    {
+      "name": "build /how-to-play: no invented ratings",
+      "status": "pass",
+      "detail": "No rating/review/popularity data supplied"
+    },
+    {
+      "name": "build /about: title",
+      "status": "pass",
+      "detail": "About Deletective — Fictional chats, shared imagination"
+    },
+    {
+      "name": "build /about: description",
+      "status": "pass",
+      "detail": "133 characters"
+    },
+    {
+      "name": "build /about: language",
+      "status": "pass",
+      "detail": "English document language"
+    },
+    {
+      "name": "build /about: viewport",
+      "status": "pass",
+      "detail": "Responsive viewport"
+    },
+    {
+      "name": "build /about: meaningful initial HTML",
+      "status": "pass",
+      "detail": "1585 main-content characters before JavaScript"
+    },
+    {
+      "name": "build /about: primary heading",
+      "status": "pass",
+      "detail": "1 h1: Every deleted message has a ridiculous story."
+    },
+    {
+      "name": "build /about: Open Graph",
+      "status": "pass",
+      "detail": "Title and description present"
+    },
+    {
+      "name": "build /about: index policy",
+      "status": "pass",
+      "detail": "noindex, nofollow"
+    },
+    {
+      "name": "build /about: no unowned canonical",
+      "status": "pass",
+      "detail": "omitted while provisional"
+    },
+    {
+      "name": "build /about: JSON-LD syntax",
+      "status": "pass",
+      "detail": "1 JSON-LD block(s), parsed"
+    },
+    {
+      "name": "build /about: truthful free app schema",
+      "status": "pass",
+      "detail": "Describes current free browser application"
+    },
+    {
+      "name": "build /about: no invented ratings",
+      "status": "pass",
+      "detail": "No rating/review/popularity data supplied"
+    },
+    {
+      "name": "build /faq: title",
+      "status": "pass",
+      "detail": "Deletective FAQ — Players, privacy, devices, and rules"
+    },
+    {
+      "name": "build /faq: description",
+      "status": "pass",
+      "detail": "145 characters"
+    },
+    {
+      "name": "build /faq: language",
+      "status": "pass",
+      "detail": "English document language"
+    },
+    {
+      "name": "build /faq: viewport",
+      "status": "pass",
+      "detail": "Responsive viewport"
+    },
+    {
+      "name": "build /faq: meaningful initial HTML",
+      "status": "pass",
+      "detail": "2636 main-content characters before JavaScript"
+    },
+    {
+      "name": "build /faq: primary heading",
+      "status": "pass",
+      "detail": "1 h1: Before someone deletes the evidence."
+    },
+    {
+      "name": "build /faq: Open Graph",
+      "status": "pass",
+      "detail": "Title and description present"
+    },
+    {
+      "name": "build /faq: index policy",
+      "status": "pass",
+      "detail": "noindex, nofollow"
+    },
+    {
+      "name": "build /faq: no unowned canonical",
+      "status": "pass",
+      "detail": "omitted while provisional"
+    },
+    {
+      "name": "build /faq: JSON-LD syntax",
+      "status": "pass",
+      "detail": "1 JSON-LD block(s), parsed"
+    },
+    {
+      "name": "build /faq: truthful free app schema",
+      "status": "pass",
+      "detail": "Describes current free browser application"
+    },
+    {
+      "name": "build /faq: no invented ratings",
+      "status": "pass",
+      "detail": "No rating/review/popularity data supplied"
+    },
+    {
+      "name": "build /privacy: title",
+      "status": "pass",
+      "detail": "Privacy — Deletective"
+    },
+    {
+      "name": "build /privacy: description",
+      "status": "pass",
+      "detail": "126 characters"
+    },
+    {
+      "name": "build /privacy: language",
+      "status": "pass",
+      "detail": "English document language"
+    },
+    {
+      "name": "build /privacy: viewport",
+      "status": "pass",
+      "detail": "Responsive viewport"
+    },
+    {
+      "name": "build /privacy: meaningful initial HTML",
+      "status": "pass",
+      "detail": "2842 main-content characters before JavaScript"
+    },
+    {
+      "name": "build /privacy: primary heading",
+      "status": "pass",
+      "detail": "1 h1: Privacy, in plain language."
+    },
+    {
+      "name": "build /privacy: Open Graph",
+      "status": "pass",
+      "detail": "Title and description present"
+    },
+    {
+      "name": "build /privacy: index policy",
+      "status": "pass",
+      "detail": "noindex, nofollow"
+    },
+    {
+      "name": "build /privacy: no unowned canonical",
+      "status": "pass",
+      "detail": "omitted while provisional"
+    },
+    {
+      "name": "build /privacy: JSON-LD syntax",
+      "status": "pass",
+      "detail": "1 JSON-LD block(s), parsed"
+    },
+    {
+      "name": "build /privacy: truthful free app schema",
+      "status": "pass",
+      "detail": "Describes current free browser application"
+    },
+    {
+      "name": "build /privacy: no invented ratings",
+      "status": "pass",
+      "detail": "No rating/review/popularity data supplied"
+    },
+    {
+      "name": "build /terms: title",
+      "status": "pass",
+      "detail": "Terms of play — Deletective"
+    },
+    {
+      "name": "build /terms: description",
+      "status": "pass",
+      "detail": "139 characters"
+    },
+    {
+      "name": "build /terms: language",
+      "status": "pass",
+      "detail": "English document language"
+    },
+    {
+      "name": "build /terms: viewport",
+      "status": "pass",
+      "detail": "Responsive viewport"
+    },
+    {
+      "name": "build /terms: meaningful initial HTML",
+      "status": "pass",
+      "detail": "2197 main-content characters before JavaScript"
+    },
+    {
+      "name": "build /terms: primary heading",
+      "status": "pass",
+      "detail": "1 h1: Keep the chaos friendly."
+    },
+    {
+      "name": "build /terms: Open Graph",
+      "status": "pass",
+      "detail": "Title and description present"
+    },
+    {
+      "name": "build /terms: index policy",
+      "status": "pass",
+      "detail": "noindex, nofollow"
+    },
+    {
+      "name": "build /terms: no unowned canonical",
+      "status": "pass",
+      "detail": "omitted while provisional"
+    },
+    {
+      "name": "build /terms: JSON-LD syntax",
+      "status": "pass",
+      "detail": "1 JSON-LD block(s), parsed"
+    },
+    {
+      "name": "build /terms: truthful free app schema",
+      "status": "pass",
+      "detail": "Describes current free browser application"
+    },
+    {
+      "name": "build /terms: no invented ratings",
+      "status": "pass",
+      "detail": "No rating/review/popularity data supplied"
+    },
+    {
+      "name": "build /play: title",
+      "status": "pass",
+      "detail": "Play Deletective — Create or join a private game room"
+    },
+    {
+      "name": "build /play: description",
+      "status": "pass",
+      "detail": "137 characters"
+    },
+    {
+      "name": "build /play: language",
+      "status": "pass",
+      "detail": "English document language"
+    },
+    {
+      "name": "build /play: viewport",
+      "status": "pass",
+      "detail": "Responsive viewport"
+    },
+    {
+      "name": "build /play: private noindex",
+      "status": "pass",
+      "detail": "noindex, nofollow"
+    },
+    {
+      "name": "build /play: no private canonical",
+      "status": "pass",
+      "detail": "omitted"
+    },
+    {
+      "name": "build /play: no private schema",
+      "status": "pass",
+      "detail": "No room/play/404 structured-data publication"
+    },
+    {
+      "name": "build /room: title",
+      "status": "pass",
+      "detail": "Your private chat — Deletective"
+    },
+    {
+      "name": "build /room: description",
+      "status": "pass",
+      "detail": "93 characters"
+    },
+    {
+      "name": "build /room: language",
+      "status": "pass",
+      "detail": "English document language"
+    },
+    {
+      "name": "build /room: viewport",
+      "status": "pass",
+      "detail": "Responsive viewport"
+    },
+    {
+      "name": "build /room: private noindex",
+      "status": "pass",
+      "detail": "noindex, nofollow"
+    },
+    {
+      "name": "build /room: no private canonical",
+      "status": "pass",
+      "detail": "omitted"
+    },
+    {
+      "name": "build /room: no private schema",
+      "status": "pass",
+      "detail": "No room/play/404 structured-data publication"
+    },
+    {
+      "name": "build /404: title",
+      "status": "pass",
+      "detail": "This message is missing — Deletective"
+    },
+    {
+      "name": "build /404: description",
+      "status": "pass",
+      "detail": "141 characters"
+    },
+    {
+      "name": "build /404: language",
+      "status": "pass",
+      "detail": "English document language"
+    },
+    {
+      "name": "build /404: viewport",
+      "status": "pass",
+      "detail": "Responsive viewport"
+    },
+    {
+      "name": "build /404: private noindex",
+      "status": "pass",
+      "detail": "noindex, nofollow"
+    },
+    {
+      "name": "build /404: no private canonical",
+      "status": "pass",
+      "detail": "omitted"
+    },
+    {
+      "name": "build /404: no private schema",
+      "status": "pass",
+      "detail": "No room/play/404 structured-data publication"
+    },
+    {
+      "name": "public title uniqueness",
+      "status": "pass",
+      "detail": "10/10 unique"
+    },
+    {
+      "name": "public description uniqueness",
+      "status": "pass",
+      "detail": "10/10 unique"
+    },
+    {
+      "name": "build /: local anchor #main",
+      "status": "pass",
+      "detail": "#main"
+    },
+    {
+      "name": "build /: link #main",
+      "status": "pass",
+      "detail": "Internal destination exists; query strings do not change static route"
+    },
+    {
+      "name": "build /: link /",
+      "status": "pass",
+      "detail": "Internal destination exists; query strings do not change static route"
+    },
+    {
+      "name": "build /: link /how-to-play",
+      "status": "pass",
+      "detail": "Internal destination exists; query strings do not change static route"
+    },
+    {
+      "name": "build /: link /daily",
+      "status": "pass",
+      "detail": "Internal destination exists; query strings do not change static route"
+    },
+    {
+      "name": "build /: link /play",
+      "status": "pass",
+      "detail": "Internal destination exists; query strings do not change static route"
+    },
+    {
+      "name": "build /: link /play",
+      "status": "pass",
+      "detail": "Internal destination exists; query strings do not change static route"
+    },
+    {
+      "name": "build /: link /daily",
+      "status": "pass",
+      "detail": "Internal destination exists; query strings do not change static route"
+    },
+    {
+      "name": "build /: link /2-player",
+      "status": "pass",
+      "detail": "Internal destination exists; query strings do not change static route"
+    },
+    {
+      "name": "build /: link /party",
+      "status": "pass",
+      "detail": "Internal destination exists; query strings do not change static route"
+    },
+    {
+      "name": "build /: link /couples",
+      "status": "pass",
+      "detail": "Internal destination exists; query strings do not change static route"
+    },
+    {
+      "name": "build /: link /daily",
+      "status": "pass",
+      "detail": "Internal destination exists; query strings do not change static route"
+    },
+    {
+      "name": "build /: link /play",
+      "status": "pass",
+      "detail": "Internal destination exists; query strings do not change static route"
+    },
+    {
+      "name": "build /: link /",
+      "status": "pass",
+      "detail": "Internal destination exists; query strings do not change static route"
+    },
+    {
+      "name": "build /: link /2-player",
+      "status": "pass",
+      "detail": "Internal destination exists; query strings do not change static route"
+    },
+    {
+      "name": "build /: link /couples",
+      "status": "pass",
+      "detail": "Internal destination exists; query strings do not change static route"
+    },
+    {
+      "name": "build /: link /party",
+      "status": "pass",
+      "detail": "Internal destination exists; query strings do not change static route"
+    },
+    {
+      "name": "build /: link /daily",
+      "status": "pass",
+      "detail": "Internal destination exists; query strings do not change static route"
+    },
+    {
+      "name": "build /: link /about",
+      "status": "pass",
+      "detail": "Internal destination exists; query strings do not change static route"
+    },
+    {
+      "name": "build /: link /faq",
+      "status": "pass",
+      "detail": "Internal destination exists; query strings do not change static route"
+    },
+    {
+      "name": "build /: link /privacy",
+      "status": "pass",
+      "detail": "Internal destination exists; query strings do not change static route"
+    },
+    {
+      "name": "build /: link /terms",
+      "status": "pass",
+      "detail": "Internal destination exists; query strings do not change static route"
+    },
+    {
+      "name": "build /2-player: local anchor #main",
+      "status": "pass",
+      "detail": "#main"
+    },
+    {
+      "name": "build /2-player: link #main",
+      "status": "pass",
+      "detail": "Internal destination exists; query strings do not change static route"
+    },
+    {
+      "name": "build /2-player: link /",
+      "status": "pass",
+      "detail": "Internal destination exists; query strings do not change static route"
+    },
+    {
+      "name": "build /2-player: link /how-to-play",
+      "status": "pass",
+      "detail": "Internal destination exists; query strings do not change static route"
+    },
+    {
+      "name": "build /2-player: link /daily",
+      "status": "pass",
+      "detail": "Internal destination exists; query strings do not change static route"
+    },
+    {
+      "name": "build /2-player: link /play",
+      "status": "pass",
+      "detail": "Internal destination exists; query strings do not change static route"
+    },
+    {
+      "name": "build /2-player: link /couples",
+      "status": "pass",
+      "detail": "Internal destination exists; query strings do not change static route"
+    },
+    {
+      "name": "build /2-player: link /party",
+      "status": "pass",
+      "detail": "Internal destination exists; query strings do not change static route"
+    },
+    {
+      "name": "build /2-player: link /play?mode=duo",
+      "status": "pass",
+      "detail": "Internal destination exists; query strings do not change static route"
+    },
+    {
+      "name": "build /2-player: link /",
+      "status": "pass",
+      "detail": "Internal destination exists; query strings do not change static route"
+    },
+    {
+      "name": "build /2-player: link /2-player",
+      "status": "pass",
+      "detail": "Internal destination exists; query strings do not change static route"
+    },
+    {
+      "name": "build /2-player: link /couples",
+      "status": "pass",
+      "detail": "Internal destination exists; query strings do not change static route"
+    },
+    {
+      "name": "build /2-player: link /party",
+      "status": "pass",
+      "detail": "Internal destination exists; query strings do not change static route"
+    },
+    {
+      "name": "build /2-player: link /daily",
+      "status": "pass",
+      "detail": "Internal destination exists; query strings do not change static route"
+    },
+    {
+      "name": "build /2-player: link /about",
+      "status": "pass",
+      "detail": "Internal destination exists; query strings do not change static route"
+    },
+    {
+      "name": "build /2-player: link /faq",
+      "status": "pass",
+      "detail": "Internal destination exists; query strings do not change static route"
+    },
+    {
+      "name": "build /2-player: link /privacy",
+      "status": "pass",
+      "detail": "Internal destination exists; query strings do not change static route"
+    },
+    {
+      "name": "build /2-player: link /terms",
+      "status": "pass",
+      "detail": "Internal destination exists; query strings do not change static route"
+    },
+    {
+      "name": "build /couples: local anchor #main",
+      "status": "pass",
+      "detail": "#main"
+    },
+    {
+      "name": "build /couples: link #main",
+      "status": "pass",
+      "detail": "Internal destination exists; query strings do not change static route"
+    },
+    {
+      "name": "build /couples: link /",
+      "status": "pass",
+      "detail": "Internal destination exists; query strings do not change static route"
+    },
+    {
+      "name": "build /couples: link /how-to-play",
+      "status": "pass",
+      "detail": "Internal destination exists; query strings do not change static route"
+    },
+    {
+      "name": "build /couples: link /daily",
+      "status": "pass",
+      "detail": "Internal destination exists; query strings do not change static route"
+    },
+    {
+      "name": "build /couples: link /play",
+      "status": "pass",
+      "detail": "Internal destination exists; query strings do not change static route"
+    },
+    {
+      "name": "build /couples: link /2-player",
+      "status": "pass",
+      "detail": "Internal destination exists; query strings do not change static route"
+    },
+    {
+      "name": "build /couples: link /play?mode=couples",
+      "status": "pass",
+      "detail": "Internal destination exists; query strings do not change static route"
+    },
+    {
+      "name": "build /couples: link /",
+      "status": "pass",
+      "detail": "Internal destination exists; query strings do not change static route"
+    },
+    {
+      "name": "build /couples: link /2-player",
+      "status": "pass",
+      "detail": "Internal destination exists; query strings do not change static route"
+    },
+    {
+      "name": "build /couples: link /couples",
+      "status": "pass",
+      "detail": "Internal destination exists; query strings do not change static route"
+    },
+    {
+      "name": "build /couples: link /party",
+      "status": "pass",
+      "detail": "Internal destination exists; query strings do not change static route"
+    },
+    {
+      "name": "build /couples: link /daily",
+      "status": "pass",
+      "detail": "Internal destination exists; query strings do not change static route"
+    },
+    {
+      "name": "build /couples: link /about",
+      "status": "pass",
+      "detail": "Internal destination exists; query strings do not change static route"
+    },
+    {
+      "name": "build /couples: link /faq",
+      "status": "pass",
+      "detail": "Internal destination exists; query strings do not change static route"
+    },
+    {
+      "name": "build /couples: link /privacy",
+      "status": "pass",
+      "detail": "Internal destination exists; query strings do not change static route"
+    },
+    {
+      "name": "build /couples: link /terms",
+      "status": "pass",
+      "detail": "Internal destination exists; query strings do not change static route"
+    },
+    {
+      "name": "build /party: local anchor #main",
+      "status": "pass",
+      "detail": "#main"
+    },
+    {
+      "name": "build /party: link #main",
+      "status": "pass",
+      "detail": "Internal destination exists; query strings do not change static route"
+    },
+    {
+      "name": "build /party: link /",
+      "status": "pass",
+      "detail": "Internal destination exists; query strings do not change static route"
+    },
+    {
+      "name": "build /party: link /how-to-play",
+      "status": "pass",
+      "detail": "Internal destination exists; query strings do not change static route"
+    },
+    {
+      "name": "build /party: link /daily",
+      "status": "pass",
+      "detail": "Internal destination exists; query strings do not change static route"
+    },
+    {
+      "name": "build /party: link /play",
+      "status": "pass",
+      "detail": "Internal destination exists; query strings do not change static route"
+    },
+    {
+      "name": "build /party: link /play?mode=chain",
+      "status": "pass",
+      "detail": "Internal destination exists; query strings do not change static route"
+    },
+    {
+      "name": "build /party: link /play?mode=party",
+      "status": "pass",
+      "detail": "Internal destination exists; query strings do not change static route"
+    },
+    {
+      "name": "build /party: link /",
+      "status": "pass",
+      "detail": "Internal destination exists; query strings do not change static route"
+    },
+    {
+      "name": "build /party: link /2-player",
+      "status": "pass",
+      "detail": "Internal destination exists; query strings do not change static route"
+    },
+    {
+      "name": "build /party: link /couples",
+      "status": "pass",
+      "detail": "Internal destination exists; query strings do not change static route"
+    },
+    {
+      "name": "build /party: link /party",
+      "status": "pass",
+      "detail": "Internal destination exists; query strings do not change static route"
+    },
+    {
+      "name": "build /party: link /daily",
+      "status": "pass",
+      "detail": "Internal destination exists; query strings do not change static route"
+    },
+    {
+      "name": "build /party: link /about",
+      "status": "pass",
+      "detail": "Internal destination exists; query strings do not change static route"
+    },
+    {
+      "name": "build /party: link /faq",
+      "status": "pass",
+      "detail": "Internal destination exists; query strings do not change static route"
+    },
+    {
+      "name": "build /party: link /privacy",
+      "status": "pass",
+      "detail": "Internal destination exists; query strings do not change static route"
+    },
+    {
+      "name": "build /party: link /terms",
+      "status": "pass",
+      "detail": "Internal destination exists; query strings do not change static route"
+    },
+    {
+      "name": "build /daily: local anchor #main",
+      "status": "pass",
+      "detail": "#main"
+    },
+    {
+      "name": "build /daily: link #main",
+      "status": "pass",
+      "detail": "Internal destination exists; query strings do not change static route"
+    },
+    {
+      "name": "build /daily: link /",
+      "status": "pass",
+      "detail": "Internal destination exists; query strings do not change static route"
+    },
+    {
+      "name": "build /daily: link /how-to-play",
+      "status": "pass",
+      "detail": "Internal destination exists; query strings do not change static route"
+    },
+    {
+      "name": "build /daily: link /daily",
+      "status": "pass",
+      "detail": "Internal destination exists; query strings do not change static route"
+    },
+    {
+      "name": "build /daily: link /play",
+      "status": "pass",
+      "detail": "Internal destination exists; query strings do not change static route"
+    },
+    {
+      "name": "build /daily: link /how-to-play",
+      "status": "pass",
+      "detail": "Internal destination exists; query strings do not change static route"
+    },
+    {
+      "name": "build /daily: link /",
+      "status": "pass",
+      "detail": "Internal destination exists; query strings do not change static route"
+    },
+    {
+      "name": "build /daily: link /2-player",
+      "status": "pass",
+      "detail": "Internal destination exists; query strings do not change static route"
+    },
+    {
+      "name": "build /daily: link /couples",
+      "status": "pass",
+      "detail": "Internal destination exists; query strings do not change static route"
+    },
+    {
+      "name": "build /daily: link /party",
+      "status": "pass",
+      "detail": "Internal destination exists; query strings do not change static route"
+    },
+    {
+      "name": "build /daily: link /daily",
+      "status": "pass",
+      "detail": "Internal destination exists; query strings do not change static route"
+    },
+    {
+      "name": "build /daily: link /about",
+      "status": "pass",
+      "detail": "Internal destination exists; query strings do not change static route"
+    },
+    {
+      "name": "build /daily: link /faq",
+      "status": "pass",
+      "detail": "Internal destination exists; query strings do not change static route"
+    },
+    {
+      "name": "build /daily: link /privacy",
+      "status": "pass",
+      "detail": "Internal destination exists; query strings do not change static route"
+    },
+    {
+      "name": "build /daily: link /terms",
+      "status": "pass",
+      "detail": "Internal destination exists; query strings do not change static route"
+    },
+    {
+      "name": "build /how-to-play: local anchor #main",
+      "status": "pass",
+      "detail": "#main"
+    },
+    {
+      "name": "build /how-to-play: link #main",
+      "status": "pass",
+      "detail": "Internal destination exists; query strings do not change static route"
+    },
+    {
+      "name": "build /how-to-play: link /",
+      "status": "pass",
+      "detail": "Internal destination exists; query strings do not change static route"
+    },
+    {
+      "name": "build /how-to-play: link /how-to-play",
+      "status": "pass",
+      "detail": "Internal destination exists; query strings do not change static route"
+    },
+    {
+      "name": "build /how-to-play: link /daily",
+      "status": "pass",
+      "detail": "Internal destination exists; query strings do not change static route"
+    },
+    {
+      "name": "build /how-to-play: link /play",
+      "status": "pass",
+      "detail": "Internal destination exists; query strings do not change static route"
+    },
+    {
+      "name": "build /how-to-play: link /daily",
+      "status": "pass",
+      "detail": "Internal destination exists; query strings do not change static route"
+    },
+    {
+      "name": "build /how-to-play: link /play",
+      "status": "pass",
+      "detail": "Internal destination exists; query strings do not change static route"
+    },
+    {
+      "name": "build /how-to-play: link /",
+      "status": "pass",
+      "detail": "Internal destination exists; query strings do not change static route"
+    },
+    {
+      "name": "build /how-to-play: link /2-player",
+      "status": "pass",
+      "detail": "Internal destination exists; query strings do not change static route"
+    },
+    {
+      "name": "build /how-to-play: link /couples",
+      "status": "pass",
+      "detail": "Internal destination exists; query strings do not change static route"
+    },
+    {
+      "name": "build /how-to-play: link /party",
+      "status": "pass",
+      "detail": "Internal destination exists; query strings do not change static route"
+    },
+    {
+      "name": "build /how-to-play: link /daily",
+      "status": "pass",
+      "detail": "Internal destination exists; query strings do not change static route"
+    },
+    {
+      "name": "build /how-to-play: link /about",
+      "status": "pass",
+      "detail": "Internal destination exists; query strings do not change static route"
+    },
+    {
+      "name": "build /how-to-play: link /faq",
+      "status": "pass",
+      "detail": "Internal destination exists; query strings do not change static route"
+    },
+    {
+      "name": "build /how-to-play: link /privacy",
+      "status": "pass",
+      "detail": "Internal destination exists; query strings do not change static route"
+    },
+    {
+      "name": "build /how-to-play: link /terms",
+      "status": "pass",
+      "detail": "Internal destination exists; query strings do not change static route"
+    },
+    {
+      "name": "build /about: local anchor #main",
+      "status": "pass",
+      "detail": "#main"
+    },
+    {
+      "name": "build /about: link #main",
+      "status": "pass",
+      "detail": "Internal destination exists; query strings do not change static route"
+    },
+    {
+      "name": "build /about: link /",
+      "status": "pass",
+      "detail": "Internal destination exists; query strings do not change static route"
+    },
+    {
+      "name": "build /about: link /how-to-play",
+      "status": "pass",
+      "detail": "Internal destination exists; query strings do not change static route"
+    },
+    {
+      "name": "build /about: link /daily",
+      "status": "pass",
+      "detail": "Internal destination exists; query strings do not change static route"
+    },
+    {
+      "name": "build /about: link /play",
+      "status": "pass",
+      "detail": "Internal destination exists; query strings do not change static route"
+    },
+    {
+      "name": "build /about: link /privacy",
+      "status": "pass",
+      "detail": "Internal destination exists; query strings do not change static route"
+    },
+    {
+      "name": "build /about: link /",
+      "status": "pass",
+      "detail": "Internal destination exists; query strings do not change static route"
+    },
+    {
+      "name": "build /about: link /2-player",
+      "status": "pass",
+      "detail": "Internal destination exists; query strings do not change static route"
+    },
+    {
+      "name": "build /about: link /couples",
+      "status": "pass",
+      "detail": "Internal destination exists; query strings do not change static route"
+    },
+    {
+      "name": "build /about: link /party",
+      "status": "pass",
+      "detail": "Internal destination exists; query strings do not change static route"
+    },
+    {
+      "name": "build /about: link /daily",
+      "status": "pass",
+      "detail": "Internal destination exists; query strings do not change static route"
+    },
+    {
+      "name": "build /about: link /about",
+      "status": "pass",
+      "detail": "Internal destination exists; query strings do not change static route"
+    },
+    {
+      "name": "build /about: link /faq",
+      "status": "pass",
+      "detail": "Internal destination exists; query strings do not change static route"
+    },
+    {
+      "name": "build /about: link /privacy",
+      "status": "pass",
+      "detail": "Internal destination exists; query strings do not change static route"
+    },
+    {
+      "name": "build /about: link /terms",
+      "status": "pass",
+      "detail": "Internal destination exists; query strings do not change static route"
+    },
+    {
+      "name": "build /faq: local anchor #main",
+      "status": "pass",
+      "detail": "#main"
+    },
+    {
+      "name": "build /faq: link #main",
+      "status": "pass",
+      "detail": "Internal destination exists; query strings do not change static route"
+    },
+    {
+      "name": "build /faq: link /",
+      "status": "pass",
+      "detail": "Internal destination exists; query strings do not change static route"
+    },
+    {
+      "name": "build /faq: link /how-to-play",
+      "status": "pass",
+      "detail": "Internal destination exists; query strings do not change static route"
+    },
+    {
+      "name": "build /faq: link /daily",
+      "status": "pass",
+      "detail": "Internal destination exists; query strings do not change static route"
+    },
+    {
+      "name": "build /faq: link /play",
+      "status": "pass",
+      "detail": "Internal destination exists; query strings do not change static route"
+    },
+    {
+      "name": "build /faq: link /2-player",
+      "status": "pass",
+      "detail": "Internal destination exists; query strings do not change static route"
+    },
+    {
+      "name": "build /faq: link /couples",
+      "status": "pass",
+      "detail": "Internal destination exists; query strings do not change static route"
+    },
+    {
+      "name": "build /faq: link /how-to-play",
+      "status": "pass",
+      "detail": "Internal destination exists; query strings do not change static route"
+    },
+    {
+      "name": "build /faq: link /play",
+      "status": "pass",
+      "detail": "Internal destination exists; query strings do not change static route"
+    },
+    {
+      "name": "build /faq: link /",
+      "status": "pass",
+      "detail": "Internal destination exists; query strings do not change static route"
+    },
+    {
+      "name": "build /faq: link /2-player",
+      "status": "pass",
+      "detail": "Internal destination exists; query strings do not change static route"
+    },
+    {
+      "name": "build /faq: link /couples",
+      "status": "pass",
+      "detail": "Internal destination exists; query strings do not change static route"
+    },
+    {
+      "name": "build /faq: link /party",
+      "status": "pass",
+      "detail": "Internal destination exists; query strings do not change static route"
+    },
+    {
+      "name": "build /faq: link /daily",
+      "status": "pass",
+      "detail": "Internal destination exists; query strings do not change static route"
+    },
+    {
+      "name": "build /faq: link /about",
+      "status": "pass",
+      "detail": "Internal destination exists; query strings do not change static route"
+    },
+    {
+      "name": "build /faq: link /faq",
+      "status": "pass",
+      "detail": "Internal destination exists; query strings do not change static route"
+    },
+    {
+      "name": "build /faq: link /privacy",
+      "status": "pass",
+      "detail": "Internal destination exists; query strings do not change static route"
+    },
+    {
+      "name": "build /faq: link /terms",
+      "status": "pass",
+      "detail": "Internal destination exists; query strings do not change static route"
+    },
+    {
+      "name": "build /privacy: local anchor #main",
+      "status": "pass",
+      "detail": "#main"
+    },
+    {
+      "name": "build /privacy: link #main",
+      "status": "pass",
+      "detail": "Internal destination exists; query strings do not change static route"
+    },
+    {
+      "name": "build /privacy: link /",
+      "status": "pass",
+      "detail": "Internal destination exists; query strings do not change static route"
+    },
+    {
+      "name": "build /privacy: link /how-to-play",
+      "status": "pass",
+      "detail": "Internal destination exists; query strings do not change static route"
+    },
+    {
+      "name": "build /privacy: link /daily",
+      "status": "pass",
+      "detail": "Internal destination exists; query strings do not change static route"
+    },
+    {
+      "name": "build /privacy: link /play",
+      "status": "pass",
+      "detail": "Internal destination exists; query strings do not change static route"
+    },
+    {
+      "name": "build /privacy: link /",
+      "status": "pass",
+      "detail": "Internal destination exists; query strings do not change static route"
+    },
+    {
+      "name": "build /privacy: link /2-player",
+      "status": "pass",
+      "detail": "Internal destination exists; query strings do not change static route"
+    },
+    {
+      "name": "build /privacy: link /couples",
+      "status": "pass",
+      "detail": "Internal destination exists; query strings do not change static route"
+    },
+    {
+      "name": "build /privacy: link /party",
+      "status": "pass",
+      "detail": "Internal destination exists; query strings do not change static route"
+    },
+    {
+      "name": "build /privacy: link /daily",
+      "status": "pass",
+      "detail": "Internal destination exists; query strings do not change static route"
+    },
+    {
+      "name": "build /privacy: link /about",
+      "status": "pass",
+      "detail": "Internal destination exists; query strings do not change static route"
+    },
+    {
+      "name": "build /privacy: link /faq",
+      "status": "pass",
+      "detail": "Internal destination exists; query strings do not change static route"
+    },
+    {
+      "name": "build /privacy: link /privacy",
+      "status": "pass",
+      "detail": "Internal destination exists; query strings do not change static route"
+    },
+    {
+      "name": "build /privacy: link /terms",
+      "status": "pass",
+      "detail": "Internal destination exists; query strings do not change static route"
+    },
+    {
+      "name": "build /terms: local anchor #main",
+      "status": "pass",
+      "detail": "#main"
+    },
+    {
+      "name": "build /terms: link #main",
+      "status": "pass",
+      "detail": "Internal destination exists; query strings do not change static route"
+    },
+    {
+      "name": "build /terms: link /",
+      "status": "pass",
+      "detail": "Internal destination exists; query strings do not change static route"
+    },
+    {
+      "name": "build /terms: link /how-to-play",
+      "status": "pass",
+      "detail": "Internal destination exists; query strings do not change static route"
+    },
+    {
+      "name": "build /terms: link /daily",
+      "status": "pass",
+      "detail": "Internal destination exists; query strings do not change static route"
+    },
+    {
+      "name": "build /terms: link /play",
+      "status": "pass",
+      "detail": "Internal destination exists; query strings do not change static route"
+    },
+    {
+      "name": "build /terms: link /privacy",
+      "status": "pass",
+      "detail": "Internal destination exists; query strings do not change static route"
+    },
+    {
+      "name": "build /terms: link /",
+      "status": "pass",
+      "detail": "Internal destination exists; query strings do not change static route"
+    },
+    {
+      "name": "build /terms: link /2-player",
+      "status": "pass",
+      "detail": "Internal destination exists; query strings do not change static route"
+    },
+    {
+      "name": "build /terms: link /couples",
+      "status": "pass",
+      "detail": "Internal destination exists; query strings do not change static route"
+    },
+    {
+      "name": "build /terms: link /party",
+      "status": "pass",
+      "detail": "Internal destination exists; query strings do not change static route"
+    },
+    {
+      "name": "build /terms: link /daily",
+      "status": "pass",
+      "detail": "Internal destination exists; query strings do not change static route"
+    },
+    {
+      "name": "build /terms: link /about",
+      "status": "pass",
+      "detail": "Internal destination exists; query strings do not change static route"
+    },
+    {
+      "name": "build /terms: link /faq",
+      "status": "pass",
+      "detail": "Internal destination exists; query strings do not change static route"
+    },
+    {
+      "name": "build /terms: link /privacy",
+      "status": "pass",
+      "detail": "Internal destination exists; query strings do not change static route"
+    },
+    {
+      "name": "build /terms: link /terms",
+      "status": "pass",
+      "detail": "Internal destination exists; query strings do not change static route"
+    },
+    {
+      "name": "sitemap XML structure",
+      "status": "pass",
+      "detail": "0 locations"
+    },
+    {
+      "name": "sitemap unique locations",
+      "status": "pass",
+      "detail": "0 total"
+    },
+    {
+      "name": "sitemap excludes private/API/answer URLs",
+      "status": "pass",
+      "detail": "No private, API, generated answer or parameter URL"
+    },
+    {
+      "name": "provisional sitemap empty",
+      "status": "pass",
+      "detail": "No unverified production-domain URLs emitted"
+    },
+    {
+      "name": "provisional robots blocks crawling",
+      "status": "pass",
+      "detail": "User-agent: *\nDisallow: /"
+    },
+    {
+      "name": "no source tooling in static assets",
+      "status": "pass",
+      "detail": "36 output files inspected"
+    },
+    {
+      "name": "social preview PNG dimensions",
+      "status": "pass",
+      "detail": "1200×630; 67728 bytes"
+    },
+    {
+      "name": "HTTP /: bounded redirects",
+      "status": "pass",
+      "detail": "[]"
+    },
+    {
+      "name": "HTTP /: status",
+      "status": "pass",
+      "detail": "200, expected 200"
+    },
+    {
+      "name": "HTTP /: title",
+      "status": "pass",
+      "detail": "Deletective — A free online party game with friends"
+    },
+    {
+      "name": "HTTP /: description",
+      "status": "pass",
+      "detail": "141 characters"
+    },
+    {
+      "name": "HTTP /: language",
+      "status": "pass",
+      "detail": "English document language"
+    },
+    {
+      "name": "HTTP /: viewport",
+      "status": "pass",
+      "detail": "Responsive viewport"
+    },
+    {
+      "name": "HTTP /: meaningful initial HTML",
+      "status": "pass",
+      "detail": "1599 main-content characters before JavaScript"
+    },
+    {
+      "name": "HTTP /: primary heading",
+      "status": "pass",
+      "detail": "1 h1: What did they delete ?!"
+    },
+    {
+      "name": "HTTP /: Open Graph",
+      "status": "pass",
+      "detail": "Title and description present"
+    },
+    {
+      "name": "HTTP /: index policy",
+      "status": "pass",
+      "detail": "noindex, nofollow"
+    },
+    {
+      "name": "HTTP /: no unowned canonical",
+      "status": "pass",
+      "detail": "omitted while provisional"
+    },
+    {
+      "name": "HTTP /: JSON-LD syntax",
+      "status": "pass",
+      "detail": "1 JSON-LD block(s), parsed"
+    },
+    {
+      "name": "HTTP /: truthful free app schema",
+      "status": "pass",
+      "detail": "Describes current free browser application"
+    },
+    {
+      "name": "HTTP /: no invented ratings",
+      "status": "pass",
+      "detail": "No rating/review/popularity data supplied"
+    },
+    {
+      "name": "HTTP /: CSP present",
+      "status": "pass",
+      "detail": "CSP response header"
+    },
+    {
+      "name": "HTTP /2-player: bounded redirects",
+      "status": "pass",
+      "detail": "[]"
+    },
+    {
+      "name": "HTTP /2-player: status",
+      "status": "pass",
+      "detail": "200, expected 200"
+    },
+    {
+      "name": "HTTP /2-player: title",
+      "status": "pass",
+      "detail": "A free 2-player browser game — Play Deletective Duo"
+    },
+    {
+      "name": "HTTP /2-player: description",
+      "status": "pass",
+      "detail": "155 characters"
+    },
+    {
+      "name": "HTTP /2-player: language",
+      "status": "pass",
+      "detail": "English document language"
+    },
+    {
+      "name": "HTTP /2-player: viewport",
+      "status": "pass",
+      "detail": "Responsive viewport"
+    },
+    {
+      "name": "HTTP /2-player: meaningful initial HTML",
+      "status": "pass",
+      "detail": "1748 main-content characters before JavaScript"
+    },
+    {
+      "name": "HTTP /2-player: primary heading",
+      "status": "pass",
+      "detail": "1 h1: Your friend is a terrible influence. Perfect."
+    },
+    {
+      "name": "HTTP /2-player: Open Graph",
+      "status": "pass",
+      "detail": "Title and description present"
+    },
+    {
+      "name": "HTTP /2-player: index policy",
+      "status": "pass",
+      "detail": "noindex, nofollow"
+    },
+    {
+      "name": "HTTP /2-player: no unowned canonical",
+      "status": "pass",
+      "detail": "omitted while provisional"
+    },
+    {
+      "name": "HTTP /2-player: JSON-LD syntax",
+      "status": "pass",
+      "detail": "1 JSON-LD block(s), parsed"
+    },
+    {
+      "name": "HTTP /2-player: truthful free app schema",
+      "status": "pass",
+      "detail": "Describes current free browser application"
+    },
+    {
+      "name": "HTTP /2-player: no invented ratings",
+      "status": "pass",
+      "detail": "No rating/review/popularity data supplied"
+    },
+    {
+      "name": "HTTP /2-player: CSP present",
+      "status": "pass",
+      "detail": "CSP response header"
+    },
+    {
+      "name": "HTTP /couples: bounded redirects",
+      "status": "pass",
+      "detail": "[]"
+    },
+    {
+      "name": "HTTP /couples: status",
+      "status": "pass",
+      "detail": "200, expected 200"
+    },
+    {
+      "name": "HTTP /couples: title",
+      "status": "pass",
+      "detail": "A funny online game for couples — Deletective date night"
+    },
+    {
+      "name": "HTTP /couples: description",
+      "status": "pass",
+      "detail": "173 characters"
+    },
+    {
+      "name": "HTTP /couples: language",
+      "status": "pass",
+      "detail": "English document language"
+    },
+    {
+      "name": "HTTP /couples: viewport",
+      "status": "pass",
+      "detail": "Responsive viewport"
+    },
+    {
+      "name": "HTTP /couples: meaningful initial HTML",
+      "status": "pass",
+      "detail": "1799 main-content characters before JavaScript"
+    },
+    {
+      "name": "HTTP /couples: primary heading",
+      "status": "pass",
+      "detail": "1 h1: Date night, with a plot twist."
+    },
+    {
+      "name": "HTTP /couples: Open Graph",
+      "status": "pass",
+      "detail": "Title and description present"
+    },
+    {
+      "name": "HTTP /couples: index policy",
+      "status": "pass",
+      "detail": "noindex, nofollow"
+    },
+    {
+      "name": "HTTP /couples: no unowned canonical",
+      "status": "pass",
+      "detail": "omitted while provisional"
+    },
+    {
+      "name": "HTTP /couples: JSON-LD syntax",
+      "status": "pass",
+      "detail": "1 JSON-LD block(s), parsed"
+    },
+    {
+      "name": "HTTP /couples: truthful free app schema",
+      "status": "pass",
+      "detail": "Describes current free browser application"
+    },
+    {
+      "name": "HTTP /couples: no invented ratings",
+      "status": "pass",
+      "detail": "No rating/review/popularity data supplied"
+    },
+    {
+      "name": "HTTP /couples: CSP present",
+      "status": "pass",
+      "detail": "CSP response header"
+    },
+    {
+      "name": "HTTP /party: bounded redirects",
+      "status": "pass",
+      "detail": "[]"
+    },
+    {
+      "name": "HTTP /party: status",
+      "status": "pass",
+      "detail": "200, expected 200"
+    },
+    {
+      "name": "HTTP /party: title",
+      "status": "pass",
+      "detail": "Free online party game for 3–10 friends — Deletective"
+    },
+    {
+      "name": "HTTP /party: description",
+      "status": "pass",
+      "detail": "150 characters"
+    },
+    {
+      "name": "HTTP /party: language",
+      "status": "pass",
+      "detail": "English document language"
+    },
+    {
+      "name": "HTTP /party: viewport",
+      "status": "pass",
+      "detail": "Responsive viewport"
+    },
+    {
+      "name": "HTTP /party: meaningful initial HTML",
+      "status": "pass",
+      "detail": "1985 main-content characters before JavaScript"
+    },
+    {
+      "name": "HTTP /party: primary heading",
+      "status": "pass",
+      "detail": "1 h1: The whole gang has some explaining to do."
+    },
+    {
+      "name": "HTTP /party: Open Graph",
+      "status": "pass",
+      "detail": "Title and description present"
+    },
+    {
+      "name": "HTTP /party: index policy",
+      "status": "pass",
+      "detail": "noindex, nofollow"
+    },
+    {
+      "name": "HTTP /party: no unowned canonical",
+      "status": "pass",
+      "detail": "omitted while provisional"
+    },
+    {
+      "name": "HTTP /party: JSON-LD syntax",
+      "status": "pass",
+      "detail": "1 JSON-LD block(s), parsed"
+    },
+    {
+      "name": "HTTP /party: truthful free app schema",
+      "status": "pass",
+      "detail": "Describes current free browser application"
+    },
+    {
+      "name": "HTTP /party: no invented ratings",
+      "status": "pass",
+      "detail": "No rating/review/popularity data supplied"
+    },
+    {
+      "name": "HTTP /party: CSP present",
+      "status": "pass",
+      "detail": "CSP response header"
+    },
+    {
+      "name": "HTTP /daily: bounded redirects",
+      "status": "pass",
+      "detail": "[]"
+    },
+    {
+      "name": "HTTP /daily: status",
+      "status": "pass",
+      "detail": "200, expected 200"
+    },
+    {
+      "name": "HTTP /daily: title",
+      "status": "pass",
+      "detail": "Daily deleted-message challenge — Deletective"
+    },
+    {
+      "name": "HTTP /daily: description",
+      "status": "pass",
+      "detail": "156 characters"
+    },
+    {
+      "name": "HTTP /daily: language",
+      "status": "pass",
+      "detail": "English document language"
+    },
+    {
+      "name": "HTTP /daily: viewport",
+      "status": "pass",
+      "detail": "Responsive viewport"
+    },
+    {
+      "name": "HTTP /daily: meaningful initial HTML",
+      "status": "pass",
+      "detail": "356 main-content characters before JavaScript"
+    },
+    {
+      "name": "HTTP /daily: primary heading",
+      "status": "pass",
+      "detail": "1 h1: One chat. Your imagination."
+    },
+    {
+      "name": "HTTP /daily: Open Graph",
+      "status": "pass",
+      "detail": "Title and description present"
+    },
+    {
+      "name": "HTTP /daily: index policy",
+      "status": "pass",
+      "detail": "noindex, nofollow"
+    },
+    {
+      "name": "HTTP /daily: no unowned canonical",
+      "status": "pass",
+      "detail": "omitted while provisional"
+    },
+    {
+      "name": "HTTP /daily: JSON-LD syntax",
+      "status": "pass",
+      "detail": "1 JSON-LD block(s), parsed"
+    },
+    {
+      "name": "HTTP /daily: truthful free app schema",
+      "status": "pass",
+      "detail": "Describes current free browser application"
+    },
+    {
+      "name": "HTTP /daily: no invented ratings",
+      "status": "pass",
+      "detail": "No rating/review/popularity data supplied"
+    },
+    {
+      "name": "HTTP /daily: CSP present",
+      "status": "pass",
+      "detail": "CSP response header"
+    },
+    {
+      "name": "HTTP /how-to-play: bounded redirects",
+      "status": "pass",
+      "detail": "[]"
+    },
+    {
+      "name": "HTTP /how-to-play: status",
+      "status": "pass",
+      "detail": "200, expected 200"
+    },
+    {
+      "name": "HTTP /how-to-play: title",
+      "status": "pass",
+      "detail": "How to play Deletective — Rules, modes, and scoring"
+    },
+    {
+      "name": "HTTP /how-to-play: description",
+      "status": "pass",
+      "detail": "158 characters"
+    },
+    {
+      "name": "HTTP /how-to-play: language",
+      "status": "pass",
+      "detail": "English document language"
+    },
+    {
+      "name": "HTTP /how-to-play: viewport",
+      "status": "pass",
+      "detail": "Responsive viewport"
+    },
+    {
+      "name": "HTTP /how-to-play: meaningful initial HTML",
+      "status": "pass",
+      "detail": "2380 main-content characters before JavaScript"
+    },
+    {
+      "name": "HTTP /how-to-play: primary heading",
+      "status": "pass",
+      "detail": "1 h1: A deleted message. You fill in the rest."
+    },
+    {
+      "name": "HTTP /how-to-play: Open Graph",
+      "status": "pass",
+      "detail": "Title and description present"
+    },
+    {
+      "name": "HTTP /how-to-play: index policy",
+      "status": "pass",
+      "detail": "noindex, nofollow"
+    },
+    {
+      "name": "HTTP /how-to-play: no unowned canonical",
+      "status": "pass",
+      "detail": "omitted while provisional"
+    },
+    {
+      "name": "HTTP /how-to-play: JSON-LD syntax",
+      "status": "pass",
+      "detail": "1 JSON-LD block(s), parsed"
+    },
+    {
+      "name": "HTTP /how-to-play: truthful free app schema",
+      "status": "pass",
+      "detail": "Describes current free browser application"
+    },
+    {
+      "name": "HTTP /how-to-play: no invented ratings",
+      "status": "pass",
+      "detail": "No rating/review/popularity data supplied"
+    },
+    {
+      "name": "HTTP /how-to-play: CSP present",
+      "status": "pass",
+      "detail": "CSP response header"
+    },
+    {
+      "name": "HTTP /about: bounded redirects",
+      "status": "pass",
+      "detail": "[]"
+    },
+    {
+      "name": "HTTP /about: status",
+      "status": "pass",
+      "detail": "200, expected 200"
+    },
+    {
+      "name": "HTTP /about: title",
+      "status": "pass",
+      "detail": "About Deletective — Fictional chats, shared imagination"
+    },
+    {
+      "name": "HTTP /about: description",
+      "status": "pass",
+      "detail": "133 characters"
+    },
+    {
+      "name": "HTTP /about: language",
+      "status": "pass",
+      "detail": "English document language"
+    },
+    {
+      "name": "HTTP /about: viewport",
+      "status": "pass",
+      "detail": "Responsive viewport"
+    },
+    {
+      "name": "HTTP /about: meaningful initial HTML",
+      "status": "pass",
+      "detail": "1585 main-content characters before JavaScript"
+    },
+    {
+      "name": "HTTP /about: primary heading",
+      "status": "pass",
+      "detail": "1 h1: Every deleted message has a ridiculous story."
+    },
+    {
+      "name": "HTTP /about: Open Graph",
+      "status": "pass",
+      "detail": "Title and description present"
+    },
+    {
+      "name": "HTTP /about: index policy",
+      "status": "pass",
+      "detail": "noindex, nofollow"
+    },
+    {
+      "name": "HTTP /about: no unowned canonical",
+      "status": "pass",
+      "detail": "omitted while provisional"
+    },
+    {
+      "name": "HTTP /about: JSON-LD syntax",
+      "status": "pass",
+      "detail": "1 JSON-LD block(s), parsed"
+    },
+    {
+      "name": "HTTP /about: truthful free app schema",
+      "status": "pass",
+      "detail": "Describes current free browser application"
+    },
+    {
+      "name": "HTTP /about: no invented ratings",
+      "status": "pass",
+      "detail": "No rating/review/popularity data supplied"
+    },
+    {
+      "name": "HTTP /about: CSP present",
+      "status": "pass",
+      "detail": "CSP response header"
+    },
+    {
+      "name": "HTTP /faq: bounded redirects",
+      "status": "pass",
+      "detail": "[]"
+    },
+    {
+      "name": "HTTP /faq: status",
+      "status": "pass",
+      "detail": "200, expected 200"
+    },
+    {
+      "name": "HTTP /faq: title",
+      "status": "pass",
+      "detail": "Deletective FAQ — Players, privacy, devices, and rules"
+    },
+    {
+      "name": "HTTP /faq: description",
+      "status": "pass",
+      "detail": "145 characters"
+    },
+    {
+      "name": "HTTP /faq: language",
+      "status": "pass",
+      "detail": "English document language"
+    },
+    {
+      "name": "HTTP /faq: viewport",
+      "status": "pass",
+      "detail": "Responsive viewport"
+    },
+    {
+      "name": "HTTP /faq: meaningful initial HTML",
+      "status": "pass",
+      "detail": "2636 main-content characters before JavaScript"
+    },
+    {
+      "name": "HTTP /faq: primary heading",
+      "status": "pass",
+      "detail": "1 h1: Before someone deletes the evidence."
+    },
+    {
+      "name": "HTTP /faq: Open Graph",
+      "status": "pass",
+      "detail": "Title and description present"
+    },
+    {
+      "name": "HTTP /faq: index policy",
+      "status": "pass",
+      "detail": "noindex, nofollow"
+    },
+    {
+      "name": "HTTP /faq: no unowned canonical",
+      "status": "pass",
+      "detail": "omitted while provisional"
+    },
+    {
+      "name": "HTTP /faq: JSON-LD syntax",
+      "status": "pass",
+      "detail": "1 JSON-LD block(s), parsed"
+    },
+    {
+      "name": "HTTP /faq: truthful free app schema",
+      "status": "pass",
+      "detail": "Describes current free browser application"
+    },
+    {
+      "name": "HTTP /faq: no invented ratings",
+      "status": "pass",
+      "detail": "No rating/review/popularity data supplied"
+    },
+    {
+      "name": "HTTP /faq: CSP present",
+      "status": "pass",
+      "detail": "CSP response header"
+    },
+    {
+      "name": "HTTP /privacy: bounded redirects",
+      "status": "pass",
+      "detail": "[]"
+    },
+    {
+      "name": "HTTP /privacy: status",
+      "status": "pass",
+      "detail": "200, expected 200"
+    },
+    {
+      "name": "HTTP /privacy: title",
+      "status": "pass",
+      "detail": "Privacy — Deletective"
+    },
+    {
+      "name": "HTTP /privacy: description",
+      "status": "pass",
+      "detail": "126 characters"
+    },
+    {
+      "name": "HTTP /privacy: language",
+      "status": "pass",
+      "detail": "English document language"
+    },
+    {
+      "name": "HTTP /privacy: viewport",
+      "status": "pass",
+      "detail": "Responsive viewport"
+    },
+    {
+      "name": "HTTP /privacy: meaningful initial HTML",
+      "status": "pass",
+      "detail": "2842 main-content characters before JavaScript"
+    },
+    {
+      "name": "HTTP /privacy: primary heading",
+      "status": "pass",
+      "detail": "1 h1: Privacy, in plain language."
+    },
+    {
+      "name": "HTTP /privacy: Open Graph",
+      "status": "pass",
+      "detail": "Title and description present"
+    },
+    {
+      "name": "HTTP /privacy: index policy",
+      "status": "pass",
+      "detail": "noindex, nofollow"
+    },
+    {
+      "name": "HTTP /privacy: no unowned canonical",
+      "status": "pass",
+      "detail": "omitted while provisional"
+    },
+    {
+      "name": "HTTP /privacy: JSON-LD syntax",
+      "status": "pass",
+      "detail": "1 JSON-LD block(s), parsed"
+    },
+    {
+      "name": "HTTP /privacy: truthful free app schema",
+      "status": "pass",
+      "detail": "Describes current free browser application"
+    },
+    {
+      "name": "HTTP /privacy: no invented ratings",
+      "status": "pass",
+      "detail": "No rating/review/popularity data supplied"
+    },
+    {
+      "name": "HTTP /privacy: CSP present",
+      "status": "pass",
+      "detail": "CSP response header"
+    },
+    {
+      "name": "HTTP /terms: bounded redirects",
+      "status": "pass",
+      "detail": "[]"
+    },
+    {
+      "name": "HTTP /terms: status",
+      "status": "pass",
+      "detail": "200, expected 200"
+    },
+    {
+      "name": "HTTP /terms: title",
+      "status": "pass",
+      "detail": "Terms of play — Deletective"
+    },
+    {
+      "name": "HTTP /terms: description",
+      "status": "pass",
+      "detail": "139 characters"
+    },
+    {
+      "name": "HTTP /terms: language",
+      "status": "pass",
+      "detail": "English document language"
+    },
+    {
+      "name": "HTTP /terms: viewport",
+      "status": "pass",
+      "detail": "Responsive viewport"
+    },
+    {
+      "name": "HTTP /terms: meaningful initial HTML",
+      "status": "pass",
+      "detail": "2197 main-content characters before JavaScript"
+    },
+    {
+      "name": "HTTP /terms: primary heading",
+      "status": "pass",
+      "detail": "1 h1: Keep the chaos friendly."
+    },
+    {
+      "name": "HTTP /terms: Open Graph",
+      "status": "pass",
+      "detail": "Title and description present"
+    },
+    {
+      "name": "HTTP /terms: index policy",
+      "status": "pass",
+      "detail": "noindex, nofollow"
+    },
+    {
+      "name": "HTTP /terms: no unowned canonical",
+      "status": "pass",
+      "detail": "omitted while provisional"
+    },
+    {
+      "name": "HTTP /terms: JSON-LD syntax",
+      "status": "pass",
+      "detail": "1 JSON-LD block(s), parsed"
+    },
+    {
+      "name": "HTTP /terms: truthful free app schema",
+      "status": "pass",
+      "detail": "Describes current free browser application"
+    },
+    {
+      "name": "HTTP /terms: no invented ratings",
+      "status": "pass",
+      "detail": "No rating/review/popularity data supplied"
+    },
+    {
+      "name": "HTTP /terms: CSP present",
+      "status": "pass",
+      "detail": "CSP response header"
+    },
+    {
+      "name": "HTTP /play: bounded redirects",
+      "status": "pass",
+      "detail": "[]"
+    },
+    {
+      "name": "HTTP /play: status",
+      "status": "pass",
+      "detail": "200, expected 200"
+    },
+    {
+      "name": "HTTP /room: bounded redirects",
+      "status": "pass",
+      "detail": "[]"
+    },
+    {
+      "name": "HTTP /room: status",
+      "status": "pass",
+      "detail": "200, expected 200"
+    },
+    {
+      "name": "HTTP /room: private response noindex",
+      "status": "pass",
+      "detail": "noindex, nofollow, noarchive"
+    },
+    {
+      "name": "HTTP /room: no cache",
+      "status": "pass",
+      "detail": "no-store"
+    },
+    {
+      "name": "HTTP /room: CSP present",
+      "status": "pass",
+      "detail": "CSP response header"
+    },
+    {
+      "name": "HTTP /room/SEOAUDIT: bounded redirects",
+      "status": "pass",
+      "detail": "[]"
+    },
+    {
+      "name": "HTTP /room/SEOAUDIT: status",
+      "status": "pass",
+      "detail": "200, expected 200"
+    },
+    {
+      "name": "HTTP /room/SEOAUDIT: private response noindex",
+      "status": "pass",
+      "detail": "noindex, nofollow, noarchive"
+    },
+    {
+      "name": "HTTP /room/SEOAUDIT: no cache",
+      "status": "pass",
+      "detail": "no-store"
+    },
+    {
+      "name": "HTTP /room/SEOAUDIT: CSP present",
+      "status": "pass",
+      "detail": "CSP response header"
+    },
+    {
+      "name": "HTTP /not-a-real-deletective-page: bounded redirects",
+      "status": "pass",
+      "detail": "[]"
+    },
+    {
+      "name": "HTTP /not-a-real-deletective-page: status",
+      "status": "pass",
+      "detail": "404, expected 404"
+    },
+    {
+      "name": "HTTP /api/health: bounded redirects",
+      "status": "pass",
+      "detail": "[]"
+    },
+    {
+      "name": "HTTP /api/health: status",
+      "status": "pass",
+      "detail": "200, expected 200"
+    },
+    {
+      "name": "HTTP /api/health: private response noindex",
+      "status": "pass",
+      "detail": "noindex, nofollow"
+    },
+    {
+      "name": "HTTP /api/not-a-route: bounded redirects",
+      "status": "pass",
+      "detail": "[]"
+    },
+    {
+      "name": "HTTP /api/not-a-route: status",
+      "status": "pass",
+      "detail": "404, expected 404"
+    },
+    {
+      "name": "HTTP /api/not-a-route: private response noindex",
+      "status": "pass",
+      "detail": "noindex, nofollow"
+    },
+    {
+      "name": "HTTP /robots.txt: bounded redirects",
+      "status": "pass",
+      "detail": "[]"
+    },
+    {
+      "name": "HTTP /robots.txt: status",
+      "status": "pass",
+      "detail": "200, expected 200"
+    },
+    {
+      "name": "HTTP /sitemap.xml: bounded redirects",
+      "status": "pass",
+      "detail": "[]"
+    },
+    {
+      "name": "HTTP /sitemap.xml: status",
+      "status": "pass",
+      "detail": "200, expected 200"
+    },
+    {
+      "name": "Chromium /: rendered main and heading",
+      "status": "pass",
+      "detail": "6617 characters; 1 h1"
+    },
+    {
+      "name": "Chromium /: rendered schema",
+      "status": "pass",
+      "detail": "1 parsed JSON-LD blocks"
+    },
+    {
+      "name": "Chromium /: desktop overflow",
+      "status": "pass",
+      "detail": "1280px viewport"
+    },
+    {
+      "name": "Chromium /: mobile width overflow",
+      "status": "pass",
+      "detail": "390px simulated viewport; not physical-device keyboard test"
+    },
+    {
+      "name": "Chromium /2-player: rendered main and heading",
+      "status": "pass",
+      "detail": "1733 characters; 1 h1"
+    },
+    {
+      "name": "Chromium /2-player: rendered schema",
+      "status": "pass",
+      "detail": "1 parsed JSON-LD blocks"
+    },
+    {
+      "name": "Chromium /2-player: desktop overflow",
+      "status": "pass",
+      "detail": "1280px viewport"
+    },
+    {
+      "name": "Chromium /2-player: mobile width overflow",
+      "status": "pass",
+      "detail": "390px simulated viewport; not physical-device keyboard test"
+    },
+    {
+      "name": "Chromium /couples: rendered main and heading",
+      "status": "pass",
+      "detail": "1783 characters; 1 h1"
+    },
+    {
+      "name": "Chromium /couples: rendered schema",
+      "status": "pass",
+      "detail": "1 parsed JSON-LD blocks"
+    },
+    {
+      "name": "Chromium /couples: desktop overflow",
+      "status": "pass",
+      "detail": "1280px viewport"
+    },
+    {
+      "name": "Chromium /couples: mobile width overflow",
+      "status": "pass",
+      "detail": "390px simulated viewport; not physical-device keyboard test"
+    },
+    {
+      "name": "Chromium /party: rendered main and heading",
+      "status": "pass",
+      "detail": "1968 characters; 1 h1"
+    },
+    {
+      "name": "Chromium /party: rendered schema",
+      "status": "pass",
+      "detail": "1 parsed JSON-LD blocks"
+    },
+    {
+      "name": "Chromium /party: desktop overflow",
+      "status": "pass",
+      "detail": "1280px viewport"
+    },
+    {
+      "name": "Chromium /party: mobile width overflow",
+      "status": "pass",
+      "detail": "390px simulated viewport; not physical-device keyboard test"
+    },
+    {
+      "name": "Chromium /daily: rendered main and heading",
+      "status": "pass",
+      "detail": "5640 characters; 1 h1"
+    },
+    {
+      "name": "Chromium /daily: rendered schema",
+      "status": "pass",
+      "detail": "1 parsed JSON-LD blocks"
+    },
+    {
+      "name": "Chromium /daily: desktop overflow",
+      "status": "pass",
+      "detail": "1280px viewport"
+    },
+    {
+      "name": "Chromium /daily: mobile width overflow",
+      "status": "pass",
+      "detail": "390px simulated viewport; not physical-device keyboard test"
+    },
+    {
+      "name": "Chromium /how-to-play: rendered main and heading",
+      "status": "pass",
+      "detail": "2362 characters; 1 h1"
+    },
+    {
+      "name": "Chromium /how-to-play: rendered schema",
+      "status": "pass",
+      "detail": "1 parsed JSON-LD blocks"
+    },
+    {
+      "name": "Chromium /how-to-play: desktop overflow",
+      "status": "pass",
+      "detail": "1280px viewport"
+    },
+    {
+      "name": "Chromium /how-to-play: mobile width overflow",
+      "status": "pass",
+      "detail": "390px simulated viewport; not physical-device keyboard test"
+    },
+    {
+      "name": "Chromium /about: rendered main and heading",
+      "status": "pass",
+      "detail": "1574 characters; 1 h1"
+    },
+    {
+      "name": "Chromium /about: rendered schema",
+      "status": "pass",
+      "detail": "1 parsed JSON-LD blocks"
+    },
+    {
+      "name": "Chromium /about: desktop overflow",
+      "status": "pass",
+      "detail": "1280px viewport"
+    },
+    {
+      "name": "Chromium /about: mobile width overflow",
+      "status": "pass",
+      "detail": "390px simulated viewport; not physical-device keyboard test"
+    },
+    {
+      "name": "Chromium /faq: rendered main and heading",
+      "status": "pass",
+      "detail": "2612 characters; 1 h1"
+    },
+    {
+      "name": "Chromium /faq: rendered schema",
+      "status": "pass",
+      "detail": "1 parsed JSON-LD blocks"
+    },
+    {
+      "name": "Chromium /faq: desktop overflow",
+      "status": "pass",
+      "detail": "1280px viewport"
+    },
+    {
+      "name": "Chromium /faq: mobile width overflow",
+      "status": "pass",
+      "detail": "390px simulated viewport; not physical-device keyboard test"
+    },
+    {
+      "name": "Chromium /privacy: rendered main and heading",
+      "status": "pass",
+      "detail": "2825 characters; 1 h1"
+    },
+    {
+      "name": "Chromium /privacy: rendered schema",
+      "status": "pass",
+      "detail": "1 parsed JSON-LD blocks"
+    },
+    {
+      "name": "Chromium /privacy: desktop overflow",
+      "status": "pass",
+      "detail": "1280px viewport"
+    },
+    {
+      "name": "Chromium /privacy: mobile width overflow",
+      "status": "pass",
+      "detail": "390px simulated viewport; not physical-device keyboard test"
+    },
+    {
+      "name": "Chromium /terms: rendered main and heading",
+      "status": "pass",
+      "detail": "2182 characters; 1 h1"
+    },
+    {
+      "name": "Chromium /terms: rendered schema",
+      "status": "pass",
+      "detail": "1 parsed JSON-LD blocks"
+    },
+    {
+      "name": "Chromium /terms: desktop overflow",
+      "status": "pass",
+      "detail": "1280px viewport"
+    },
+    {
+      "name": "Chromium /terms: mobile width overflow",
+      "status": "pass",
+      "detail": "390px simulated viewport; not physical-device keyboard test"
+    }
+  ],
+  "pages": [
+    {
+      "route": "/",
+      "title": "Deletective — A free online party game with friends",
+      "description": "Read the reactions. Invent the deleted message. Make your friends lose it. A free browser game for 2–10 players, with a daily solo challenge.",
+      "h1": [
+        "What did they delete ?!"
+      ],
+      "robots": "noindex, nofollow",
+      "canonical": null,
+      "mainCharacters": 1599,
+      "initialHtmlBytes": 14622
+    },
+    {
+      "route": "/2-player",
+      "title": "A free 2-player browser game — Play Deletective Duo",
+      "description": "A creative online game designed for exactly two friends. Invent the deleted message, reveal your answers together, and react. Free, no account or download.",
+      "h1": [
+        "Your friend is a terrible influence. Perfect."
+      ],
+      "robots": "noindex, nofollow",
+      "canonical": null,
+      "mainCharacters": 1748,
+      "initialHtmlBytes": 6093
+    },
+    {
+      "route": "/couples",
+      "title": "A funny online game for couples — Deletective date night",
+      "description": "Play a free creative date-night game from separate phones. Invent missing messages in fictional first dates, family dinners, and vacation disasters. No relationship quizzes.",
+      "h1": [
+        "Date night, with a plot twist."
+      ],
+      "robots": "noindex, nofollow",
+      "canonical": null,
+      "mainCharacters": 1799,
+      "initialHtmlBytes": 6192
+    },
+    {
+      "route": "/party",
+      "title": "Free online party game for 3–10 friends — Deletective",
+      "description": "Play a text-based browser party game with your group. Secret answers, anonymous reveals, fair voting, and a Reaction Chain mode. No login or download.",
+      "h1": [
+        "The whole gang has some explaining to do."
+      ],
+      "robots": "noindex, nofollow",
+      "canonical": null,
+      "mainCharacters": 1985,
+      "initialHtmlBytes": 6326
+    },
+    {
+      "route": "/daily",
+      "title": "Daily deleted-message challenge — Deletective",
+      "description": "A fresh fictional group chat every day. Invent the missing message, see another interpretation, and build a local streak. Free solo creative game, no login.",
+      "h1": [
+        "One chat. Your imagination."
+      ],
+      "robots": "noindex, nofollow",
+      "canonical": null,
+      "mainCharacters": 356,
+      "initialHtmlBytes": 10091
+    },
+    {
+      "route": "/how-to-play",
+      "title": "How to play Deletective — Rules, modes, and scoring",
+      "description": "Learn Deletective in a minute: read a fictional conversation, write the missing message in secret, reveal, react, and vote with friends. Rules for every mode.",
+      "h1": [
+        "A deleted message. You fill in the rest."
+      ],
+      "robots": "noindex, nofollow",
+      "canonical": null,
+      "mainCharacters": 2380,
+      "initialHtmlBytes": 6664
+    },
+    {
+      "route": "/about",
+      "title": "About Deletective — Fictional chats, shared imagination",
+      "description": "Meet the idea behind Deletective: a free creative browser game about inventing missing messages with your friends, partner, or group.",
+      "h1": [
+        "Every deleted message has a ridiculous story."
+      ],
+      "robots": "noindex, nofollow",
+      "canonical": null,
+      "mainCharacters": 1585,
+      "initialHtmlBytes": 5661
+    },
+    {
+      "route": "/faq",
+      "title": "Deletective FAQ — Players, privacy, devices, and rules",
+      "description": "Answers about playing Deletective with two people, couples, or a group; mobile support, private rooms, scoring, sharing, and the daily challenge.",
+      "h1": [
+        "Before someone deletes the evidence."
+      ],
+      "robots": "noindex, nofollow",
+      "canonical": null,
+      "mainCharacters": 2636,
+      "initialHtmlBytes": 7250
+    },
+    {
+      "route": "/privacy",
+      "title": "Privacy — Deletective",
+      "description": "How Deletective handles private rooms, guest credentials, temporary player content, local daily streaks, and optional sharing.",
+      "h1": [
+        "Privacy, in plain language."
+      ],
+      "robots": "noindex, nofollow",
+      "canonical": null,
+      "mainCharacters": 2842,
+      "initialHtmlBytes": 6885
+    },
+    {
+      "route": "/terms",
+      "title": "Terms of play — Deletective",
+      "description": "Prelaunch rules for using Deletective: respectful play, fictional content, private room access, optional sharing, and service availability.",
+      "h1": [
+        "Keep the chaos friendly."
+      ],
+      "robots": "noindex, nofollow",
+      "canonical": null,
+      "mainCharacters": 2197,
+      "initialHtmlBytes": 6292
+    },
+    {
+      "route": "/play",
+      "title": "Play Deletective — Create or join a private game room",
+      "description": "Create a private Deletective room or join your friends with a code. Play Duo, Couples, Party, or Reaction Chain. No sign-up, no download.",
+      "h1": [
+        "Good friends. Terrible explanations."
+      ],
+      "robots": "noindex, nofollow",
+      "canonical": null,
+      "mainCharacters": 1026,
+      "initialHtmlBytes": 12826
+    },
+    {
+      "route": "/room",
+      "title": "Your private chat — Deletective",
+      "description": "A private Deletective game with your friends. Room content is temporary and is not published.",
+      "h1": [],
+      "robots": "noindex, nofollow",
+      "canonical": null,
+      "mainCharacters": 17,
+      "initialHtmlBytes": 8828
+    },
+    {
+      "route": "/404",
+      "title": "This message is missing — Deletective",
+      "description": "Read the reactions. Invent the deleted message. Make your friends lose it. A free browser game for 2–10 players, with a daily solo challenge.",
+      "h1": [
+        "Looks like this page went missing."
+      ],
+      "robots": "noindex, nofollow",
+      "canonical": null,
+      "mainCharacters": 175,
+      "initialHtmlBytes": 3688
+    }
+  ],
+  "http": [
+    {
+      "route": "/",
+      "redirects": [],
+      "finalUrl": "http://127.0.0.1:8787/",
+      "status": 200,
+      "contentType": "text/html; charset=utf-8",
+      "robots": null,
+      "cache": "public, max-age=0, must-revalidate",
+      "csp": "default-src 'self'; script-src 'self' 'unsafe-inline' https://static.cloudflareinsights.com; style-src 'self' 'unsafe-inline'; img-src 'self' data: blob:; font-src 'self'; connect-src 'self' https://cloudflareinsights.com; media-src 'self' blob:; object-src 'none'; base-uri 'self'; frame-ancestors 'none'; form-action 'self'"
+    },
+    {
+      "route": "/2-player",
+      "redirects": [],
+      "finalUrl": "http://127.0.0.1:8787/2-player",
+      "status": 200,
+      "contentType": "text/html; charset=utf-8",
+      "robots": null,
+      "cache": "public, max-age=0, must-revalidate",
+      "csp": "default-src 'self'; script-src 'self' 'unsafe-inline' https://static.cloudflareinsights.com; style-src 'self' 'unsafe-inline'; img-src 'self' data: blob:; font-src 'self'; connect-src 'self' https://cloudflareinsights.com; media-src 'self' blob:; object-src 'none'; base-uri 'self'; frame-ancestors 'none'; form-action 'self'"
+    },
+    {
+      "route": "/couples",
+      "redirects": [],
+      "finalUrl": "http://127.0.0.1:8787/couples",
+      "status": 200,
+      "contentType": "text/html; charset=utf-8",
+      "robots": null,
+      "cache": "public, max-age=0, must-revalidate",
+      "csp": "default-src 'self'; script-src 'self' 'unsafe-inline' https://static.cloudflareinsights.com; style-src 'self' 'unsafe-inline'; img-src 'self' data: blob:; font-src 'self'; connect-src 'self' https://cloudflareinsights.com; media-src 'self' blob:; object-src 'none'; base-uri 'self'; frame-ancestors 'none'; form-action 'self'"
+    },
+    {
+      "route": "/party",
+      "redirects": [],
+      "finalUrl": "http://127.0.0.1:8787/party",
+      "status": 200,
+      "contentType": "text/html; charset=utf-8",
+      "robots": null,
+      "cache": "public, max-age=0, must-revalidate",
+      "csp": "default-src 'self'; script-src 'self' 'unsafe-inline' https://static.cloudflareinsights.com; style-src 'self' 'unsafe-inline'; img-src 'self' data: blob:; font-src 'self'; connect-src 'self' https://cloudflareinsights.com; media-src 'self' blob:; object-src 'none'; base-uri 'self'; frame-ancestors 'none'; form-action 'self'"
+    },
+    {
+      "route": "/daily",
+      "redirects": [],
+      "finalUrl": "http://127.0.0.1:8787/daily",
+      "status": 200,
+      "contentType": "text/html; charset=utf-8",
+      "robots": null,
+      "cache": "public, max-age=0, must-revalidate",
+      "csp": "default-src 'self'; script-src 'self' 'unsafe-inline' https://static.cloudflareinsights.com; style-src 'self' 'unsafe-inline'; img-src 'self' data: blob:; font-src 'self'; connect-src 'self' https://cloudflareinsights.com; media-src 'self' blob:; object-src 'none'; base-uri 'self'; frame-ancestors 'none'; form-action 'self'"
+    },
+    {
+      "route": "/how-to-play",
+      "redirects": [],
+      "finalUrl": "http://127.0.0.1:8787/how-to-play",
+      "status": 200,
+      "contentType": "text/html; charset=utf-8",
+      "robots": null,
+      "cache": "public, max-age=0, must-revalidate",
+      "csp": "default-src 'self'; script-src 'self' 'unsafe-inline' https://static.cloudflareinsights.com; style-src 'self' 'unsafe-inline'; img-src 'self' data: blob:; font-src 'self'; connect-src 'self' https://cloudflareinsights.com; media-src 'self' blob:; object-src 'none'; base-uri 'self'; frame-ancestors 'none'; form-action 'self'"
+    },
+    {
+      "route": "/about",
+      "redirects": [],
+      "finalUrl": "http://127.0.0.1:8787/about",
+      "status": 200,
+      "contentType": "text/html; charset=utf-8",
+      "robots": null,
+      "cache": "public, max-age=0, must-revalidate",
+      "csp": "default-src 'self'; script-src 'self' 'unsafe-inline' https://static.cloudflareinsights.com; style-src 'self' 'unsafe-inline'; img-src 'self' data: blob:; font-src 'self'; connect-src 'self' https://cloudflareinsights.com; media-src 'self' blob:; object-src 'none'; base-uri 'self'; frame-ancestors 'none'; form-action 'self'"
+    },
+    {
+      "route": "/faq",
+      "redirects": [],
+      "finalUrl": "http://127.0.0.1:8787/faq",
+      "status": 200,
+      "contentType": "text/html; charset=utf-8",
+      "robots": null,
+      "cache": "public, max-age=0, must-revalidate",
+      "csp": "default-src 'self'; script-src 'self' 'unsafe-inline' https://static.cloudflareinsights.com; style-src 'self' 'unsafe-inline'; img-src 'self' data: blob:; font-src 'self'; connect-src 'self' https://cloudflareinsights.com; media-src 'self' blob:; object-src 'none'; base-uri 'self'; frame-ancestors 'none'; form-action 'self'"
+    },
+    {
+      "route": "/privacy",
+      "redirects": [],
+      "finalUrl": "http://127.0.0.1:8787/privacy",
+      "status": 200,
+      "contentType": "text/html; charset=utf-8",
+      "robots": null,
+      "cache": "public, max-age=0, must-revalidate",
+      "csp": "default-src 'self'; script-src 'self' 'unsafe-inline' https://static.cloudflareinsights.com; style-src 'self' 'unsafe-inline'; img-src 'self' data: blob:; font-src 'self'; connect-src 'self' https://cloudflareinsights.com; media-src 'self' blob:; object-src 'none'; base-uri 'self'; frame-ancestors 'none'; form-action 'self'"
+    },
+    {
+      "route": "/terms",
+      "redirects": [],
+      "finalUrl": "http://127.0.0.1:8787/terms",
+      "status": 200,
+      "contentType": "text/html; charset=utf-8",
+      "robots": null,
+      "cache": "public, max-age=0, must-revalidate",
+      "csp": "default-src 'self'; script-src 'self' 'unsafe-inline' https://static.cloudflareinsights.com; style-src 'self' 'unsafe-inline'; img-src 'self' data: blob:; font-src 'self'; connect-src 'self' https://cloudflareinsights.com; media-src 'self' blob:; object-src 'none'; base-uri 'self'; frame-ancestors 'none'; form-action 'self'"
+    },
+    {
+      "route": "/play",
+      "redirects": [],
+      "finalUrl": "http://127.0.0.1:8787/play",
+      "status": 200,
+      "contentType": "text/html; charset=utf-8",
+      "robots": "noindex, nofollow",
+      "cache": "public, max-age=0, must-revalidate",
+      "csp": "default-src 'self'; script-src 'self' 'unsafe-inline' https://static.cloudflareinsights.com; style-src 'self' 'unsafe-inline'; img-src 'self' data: blob:; font-src 'self'; connect-src 'self' https://cloudflareinsights.com; media-src 'self' blob:; object-src 'none'; base-uri 'self'; frame-ancestors 'none'; form-action 'self'"
+    },
+    {
+      "route": "/room",
+      "redirects": [],
+      "finalUrl": "http://127.0.0.1:8787/room",
+      "status": 200,
+      "contentType": "text/html; charset=utf-8",
+      "robots": "noindex, nofollow, noarchive",
+      "cache": "no-store",
+      "csp": "default-src 'self'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; img-src 'self' data: blob:; font-src 'self'; connect-src 'self' ws://localhost:* ws://127.0.0.1:*; media-src 'self' blob:; object-src 'none'; base-uri 'self'; frame-ancestors 'none'; form-action 'self'"
+    },
+    {
+      "route": "/room/SEOAUDIT",
+      "redirects": [],
+      "finalUrl": "http://127.0.0.1:8787/room/SEOAUDIT",
+      "status": 200,
+      "contentType": "text/html; charset=utf-8",
+      "robots": "noindex, nofollow, noarchive",
+      "cache": "no-store",
+      "csp": "default-src 'self'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; img-src 'self' data: blob:; font-src 'self'; connect-src 'self' ws://localhost:* ws://127.0.0.1:*; media-src 'self' blob:; object-src 'none'; base-uri 'self'; frame-ancestors 'none'; form-action 'self'"
+    },
+    {
+      "route": "/not-a-real-deletective-page",
+      "redirects": [],
+      "finalUrl": "http://127.0.0.1:8787/not-a-real-deletective-page",
+      "status": 404,
+      "contentType": null,
+      "robots": null,
+      "cache": null,
+      "csp": "default-src 'self'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; img-src 'self' data: blob:; font-src 'self'; connect-src 'self' ws://localhost:* ws://127.0.0.1:*; media-src 'self' blob:; object-src 'none'; base-uri 'self'; frame-ancestors 'none'; form-action 'self'"
+    },
+    {
+      "route": "/api/health",
+      "redirects": [],
+      "finalUrl": "http://127.0.0.1:8787/api/health",
+      "status": 200,
+      "contentType": "application/json",
+      "robots": "noindex, nofollow",
+      "cache": "no-store",
+      "csp": null
+    },
+    {
+      "route": "/api/not-a-route",
+      "redirects": [],
+      "finalUrl": "http://127.0.0.1:8787/api/not-a-route",
+      "status": 404,
+      "contentType": "application/json",
+      "robots": "noindex, nofollow",
+      "cache": "no-store",
+      "csp": null
+    },
+    {
+      "route": "/robots.txt",
+      "redirects": [],
+      "finalUrl": "http://127.0.0.1:8787/robots.txt",
+      "status": 200,
+      "contentType": "text/plain; charset=utf-8",
+      "robots": null,
+      "cache": "public, max-age=0, must-revalidate",
+      "csp": "default-src 'self'; script-src 'self' 'unsafe-inline' https://static.cloudflareinsights.com; style-src 'self' 'unsafe-inline'; img-src 'self' data: blob:; font-src 'self'; connect-src 'self' https://cloudflareinsights.com; media-src 'self' blob:; object-src 'none'; base-uri 'self'; frame-ancestors 'none'; form-action 'self'"
+    },
+    {
+      "route": "/sitemap.xml",
+      "redirects": [],
+      "finalUrl": "http://127.0.0.1:8787/sitemap.xml",
+      "status": 200,
+      "contentType": "application/xml",
+      "robots": null,
+      "cache": "public, max-age=0, must-revalidate",
+      "csp": "default-src 'self'; script-src 'self' 'unsafe-inline' https://static.cloudflareinsights.com; style-src 'self' 'unsafe-inline'; img-src 'self' data: blob:; font-src 'self'; connect-src 'self' https://cloudflareinsights.com; media-src 'self' blob:; object-src 'none'; base-uri 'self'; frame-ancestors 'none'; form-action 'self'"
+    }
+  ],
+  "browser": {
+    "engine": "Chromium",
+    "version": "156.0.8078.4",
+    "pages": [
+      {
+        "route": "/",
+        "title": "Deletective — A free online party game with friends",
+        "h1": [
+          "What didthey delete?!"
+        ],
+        "mainCharacters": 6617,
+        "schemas": [
+          {
+            "@context": "https://schema.org",
+            "@type": "WebApplication",
+            "name": "Deletective",
+            "description": "Read the reactions. Invent the deleted message. Make your friends lose it. A free browser game for 2–10 players, with a daily solo challenge.",
+            "applicationCategory": "GameApplication",
+            "operatingSystem": "Web browser",
+            "browserRequirements": "JavaScript and WebSocket support",
+            "isAccessibleForFree": true,
+            "offers": {
+              "@type": "Offer",
+              "price": "0",
+              "priceCurrency": "USD"
+            }
+          }
+        ],
+        "canonical": null,
+        "horizontalOverflow": false,
+        "navigationMilliseconds": 292.1999999284744
+      },
+      {
+        "route": "/2-player",
+        "title": "A free 2-player browser game — Play Deletective Duo",
+        "h1": [
+          "Your friend is a terrible influence. Perfect."
+        ],
+        "mainCharacters": 1733,
+        "schemas": [
+          {
+            "@context": "https://schema.org",
+            "@type": "WebApplication",
+            "name": "Deletective",
+            "description": "A creative online game designed for exactly two friends. Invent the deleted message, reveal your answers together, and react. Free, no account or download.",
+            "applicationCategory": "GameApplication",
+            "operatingSystem": "Web browser",
+            "browserRequirements": "JavaScript and WebSocket support",
+            "isAccessibleForFree": true,
+            "offers": {
+              "@type": "Offer",
+              "price": "0",
+              "priceCurrency": "USD"
+            }
+          }
+        ],
+        "canonical": null,
+        "horizontalOverflow": false,
+        "navigationMilliseconds": 10.799999952316284
+      },
+      {
+        "route": "/couples",
+        "title": "A funny online game for couples — Deletective date night",
+        "h1": [
+          "Date night, with a plot twist."
+        ],
+        "mainCharacters": 1783,
+        "schemas": [
+          {
+            "@context": "https://schema.org",
+            "@type": "WebApplication",
+            "name": "Deletective",
+            "description": "Play a free creative date-night game from separate phones. Invent missing messages in fictional first dates, family dinners, and vacation disasters. No relationship quizzes.",
+            "applicationCategory": "GameApplication",
+            "operatingSystem": "Web browser",
+            "browserRequirements": "JavaScript and WebSocket support",
+            "isAccessibleForFree": true,
+            "offers": {
+              "@type": "Offer",
+              "price": "0",
+              "priceCurrency": "USD"
+            }
+          }
+        ],
+        "canonical": null,
+        "horizontalOverflow": false,
+        "navigationMilliseconds": 9.400000095367432
+      },
+      {
+        "route": "/party",
+        "title": "Free online party game for 3–10 friends — Deletective",
+        "h1": [
+          "The whole gang has some explaining to do."
+        ],
+        "mainCharacters": 1968,
+        "schemas": [
+          {
+            "@context": "https://schema.org",
+            "@type": "WebApplication",
+            "name": "Deletective",
+            "description": "Play a text-based browser party game with your group. Secret answers, anonymous reveals, fair voting, and a Reaction Chain mode. No login or download.",
+            "applicationCategory": "GameApplication",
+            "operatingSystem": "Web browser",
+            "browserRequirements": "JavaScript and WebSocket support",
+            "isAccessibleForFree": true,
+            "offers": {
+              "@type": "Offer",
+              "price": "0",
+              "priceCurrency": "USD"
+            }
+          }
+        ],
+        "canonical": null,
+        "horizontalOverflow": false,
+        "navigationMilliseconds": 9.700000047683716
+      },
+      {
+        "route": "/daily",
+        "title": "Daily deleted-message challenge — Deletective",
+        "h1": [
+          "One chat. Your imagination."
+        ],
+        "mainCharacters": 5640,
+        "schemas": [
+          {
+            "@context": "https://schema.org",
+            "@type": "WebApplication",
+            "name": "Deletective",
+            "description": "A fresh fictional group chat every day. Invent the missing message, see another interpretation, and build a local streak. Free solo creative game, no login.",
+            "applicationCategory": "GameApplication",
+            "operatingSystem": "Web browser",
+            "browserRequirements": "JavaScript and WebSocket support",
+            "isAccessibleForFree": true,
+            "offers": {
+              "@type": "Offer",
+              "price": "0",
+              "priceCurrency": "USD"
+            }
+          }
+        ],
+        "canonical": null,
+        "horizontalOverflow": false,
+        "navigationMilliseconds": 38.5
+      },
+      {
+        "route": "/how-to-play",
+        "title": "How to play Deletective — Rules, modes, and scoring",
+        "h1": [
+          "A deleted message. You fill in the rest."
+        ],
+        "mainCharacters": 2362,
+        "schemas": [
+          {
+            "@context": "https://schema.org",
+            "@type": "WebApplication",
+            "name": "Deletective",
+            "description": "Learn Deletective in a minute: read a fictional conversation, write the missing message in secret, reveal, react, and vote with friends. Rules for every mode.",
+            "applicationCategory": "GameApplication",
+            "operatingSystem": "Web browser",
+            "browserRequirements": "JavaScript and WebSocket support",
+            "isAccessibleForFree": true,
+            "offers": {
+              "@type": "Offer",
+              "price": "0",
+              "priceCurrency": "USD"
+            }
+          }
+        ],
+        "canonical": null,
+        "horizontalOverflow": false,
+        "navigationMilliseconds": 10.299999952316284
+      },
+      {
+        "route": "/about",
+        "title": "About Deletective — Fictional chats, shared imagination",
+        "h1": [
+          "Every deleted message has a ridiculous story."
+        ],
+        "mainCharacters": 1574,
+        "schemas": [
+          {
+            "@context": "https://schema.org",
+            "@type": "WebApplication",
+            "name": "Deletective",
+            "description": "Meet the idea behind Deletective: a free creative browser game about inventing missing messages with your friends, partner, or group.",
+            "applicationCategory": "GameApplication",
+            "operatingSystem": "Web browser",
+            "browserRequirements": "JavaScript and WebSocket support",
+            "isAccessibleForFree": true,
+            "offers": {
+              "@type": "Offer",
+              "price": "0",
+              "priceCurrency": "USD"
+            }
+          }
+        ],
+        "canonical": null,
+        "horizontalOverflow": false,
+        "navigationMilliseconds": 10.399999976158142
+      },
+      {
+        "route": "/faq",
+        "title": "Deletective FAQ — Players, privacy, devices, and rules",
+        "h1": [
+          "Before someone deletes the evidence."
+        ],
+        "mainCharacters": 2612,
+        "schemas": [
+          {
+            "@context": "https://schema.org",
+            "@type": "WebApplication",
+            "name": "Deletective",
+            "description": "Answers about playing Deletective with two people, couples, or a group; mobile support, private rooms, scoring, sharing, and the daily challenge.",
+            "applicationCategory": "GameApplication",
+            "operatingSystem": "Web browser",
+            "browserRequirements": "JavaScript and WebSocket support",
+            "isAccessibleForFree": true,
+            "offers": {
+              "@type": "Offer",
+              "price": "0",
+              "priceCurrency": "USD"
+            }
+          }
+        ],
+        "canonical": null,
+        "horizontalOverflow": false,
+        "navigationMilliseconds": 10.100000023841858
+      },
+      {
+        "route": "/privacy",
+        "title": "Privacy — Deletective",
+        "h1": [
+          "Privacy, in plain language."
+        ],
+        "mainCharacters": 2825,
+        "schemas": [
+          {
+            "@context": "https://schema.org",
+            "@type": "WebApplication",
+            "name": "Deletective",
+            "description": "How Deletective handles private rooms, guest credentials, temporary player content, local daily streaks, and optional sharing.",
+            "applicationCategory": "GameApplication",
+            "operatingSystem": "Web browser",
+            "browserRequirements": "JavaScript and WebSocket support",
+            "isAccessibleForFree": true,
+            "offers": {
+              "@type": "Offer",
+              "price": "0",
+              "priceCurrency": "USD"
+            }
+          }
+        ],
+        "canonical": null,
+        "horizontalOverflow": false,
+        "navigationMilliseconds": 10.200000047683716
+      },
+      {
+        "route": "/terms",
+        "title": "Terms of play — Deletective",
+        "h1": [
+          "Keep the chaos friendly."
+        ],
+        "mainCharacters": 2182,
+        "schemas": [
+          {
+            "@context": "https://schema.org",
+            "@type": "WebApplication",
+            "name": "Deletective",
+            "description": "Prelaunch rules for using Deletective: respectful play, fictional content, private room access, optional sharing, and service availability.",
+            "applicationCategory": "GameApplication",
+            "operatingSystem": "Web browser",
+            "browserRequirements": "JavaScript and WebSocket support",
+            "isAccessibleForFree": true,
+            "offers": {
+              "@type": "Offer",
+              "price": "0",
+              "priceCurrency": "USD"
+            }
+          }
+        ],
+        "canonical": null,
+        "horizontalOverflow": false,
+        "navigationMilliseconds": 11.600000023841858
+      }
+    ],
+    "note": "Rendered DOM and local navigation checks only. Not Lighthouse, field Core Web Vitals, real-device keyboard or cross-browser certification."
+  },
+  "assets": {
+    "fileCount": 15,
+    "totals": {
+      "js": {
+        "bytes": 263089,
+        "gzipBytes": 84316
+      },
+      "css": {
+        "bytes": 29908,
+        "gzipBytes": 6979
+      },
+      "woff2": {
+        "bytes": 103100,
+        "gzipBytes": 103127
+      }
+    },
+    "files": [
+      {
+        "path": "_astro/Daily.BFetlGG7.js",
+        "kind": "js",
+        "bytes": 4236,
+        "gzipBytes": 1733
+      },
+      {
+        "path": "_astro/Demo.CsSBX5rD.js",
+        "kind": "js",
+        "bytes": 3597,
+        "gzipBytes": 1174
+      },
+      {
+        "path": "_astro/Layout.pZ4uUvm8.css",
+        "kind": "css",
+        "bytes": 29908,
+        "gzipBytes": 6979
+      },
+      {
+        "path": "_astro/PlayForm.C5JL-O0h.js",
+        "kind": "js",
+        "bytes": 5725,
+        "gzipBytes": 2270
+      },
+      {
+        "path": "_astro/Room.9xTZ2WzP.js",
+        "kind": "js",
+        "bytes": 21018,
+        "gzipBytes": 6764
+      },
+      {
+        "path": "_astro/ShareControls.BrR4RdZ0.js",
+        "kind": "js",
+        "bytes": 4989,
+        "gzipBytes": 2074
+      },
+      {
+        "path": "_astro/client.CJCfcbhe.js",
+        "kind": "js",
+        "bytes": 2355,
+        "gzipBytes": 1196
+      },
+      {
+        "path": "_astro/client.Cd-EeyjT.js",
+        "kind": "js",
+        "bytes": 212836,
+        "gzipBytes": 65804
+      },
+      {
+        "path": "_astro/dm-sans-latin-ext-wght-normal.BOFOeGcA.woff2",
+        "kind": "woff2",
+        "bytes": 18228,
+        "gzipBytes": 18256
+      },
+      {
+        "path": "_astro/dm-sans-latin-wght-normal.Xz1IZZA0.woff2",
+        "kind": "woff2",
+        "bytes": 36932,
+        "gzipBytes": 36852
+      },
+      {
+        "path": "_astro/jsx-runtime.Cr1s1OSH.js",
+        "kind": "js",
+        "bytes": 424,
+        "gzipBytes": 292
+      },
+      {
+        "path": "_astro/react.CvnImTBr.js",
+        "kind": "js",
+        "bytes": 7909,
+        "gzipBytes": 3009
+      },
+      {
+        "path": "_astro/space-grotesk-latin-ext-wght-normal.D9tNdqV9.woff2",
+        "kind": "woff2",
+        "bytes": 18940,
+        "gzipBytes": 18968
+      },
+      {
+        "path": "_astro/space-grotesk-latin-wght-normal.BhU9QXUp.woff2",
+        "kind": "woff2",
+        "bytes": 22288,
+        "gzipBytes": 22316
+      },
+      {
+        "path": "_astro/space-grotesk-vietnamese-wght-normal.D0rl6rjA.woff2",
+        "kind": "woff2",
+        "bytes": 6712,
+        "gzipBytes": 6735
+      }
+    ],
+    "note": "All emitted assets, not measured initial page transfer. Gzip sizes calculated locally; woff2 is already compressed."
+  },
+  "summary": {
+    "pass": 537,
+    "fail": 0,
+    "warning": 0,
+    "publicPages": 10,
+    "privatePages": 3,
+    "limitations": [
+      "No ranking/volume/authority measurement",
+      "No external rich-results validator",
+      "No live production/CDN verification",
+      "No Lighthouse or field Core Web Vitals",
+      "HTML checks cover this project generated markup, not a general-purpose HTML conformance parser"
+    ]
+  }
+}

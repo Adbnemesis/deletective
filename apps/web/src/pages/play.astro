@@ -1,0 +1,7 @@
+---
+import Layout from '../layouts/Layout.astro';
+import PlayForm from '../components/PlayForm';
+---
+<Layout title="Play Deletective — Create or join a private game room" description="Create a private Deletective room or join your friends with a code. Play Duo, Couples, Party, or Reaction Chain. No sign-up, no download." privatePage>
+  <div class="wrap"><div class="page-heading"><span class="eyebrow">BRING YOUR PEOPLE. WE’LL BRING THE CHAOS.</span><h1>Good friends.<br/>Terrible explanations.</h1><p>A private chat for 2–10 people. No account, just an invite link.</p></div><div class="app-container" style="padding-top:0"><PlayForm client:load /></div></div>
+</Layout>

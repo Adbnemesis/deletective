@@ -1,0 +1,9 @@
+---
+import Layout from '../layouts/Layout.astro';
+import { articles } from '../lib/pages';
+export function getStaticPaths() {return Object.entries(articles).map(([slug,page])=>({params:{slug},props:{page}}));}
+const {page}=Astro.props;
+---
+<Layout title={page.title} description={page.description}>
+ <article class="article wrap"><div class="eyebrow">{page.eyebrow}</div><h1>{page.heading}</h1><div set:html={page.html}></div>{page.cta&&<a class="button dark" href={page.mode?`/play?mode=${page.mode}`:'/play'}>{page.cta}<span aria-hidden="true">↗</span></a>}</article>
+</Layout>

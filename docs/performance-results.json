@@ -1,0 +1,45 @@
+{
+  "dateUTC": "2026-10-28T16:11:28.545Z",
+  "environment": "local Node clients against local Wrangler/workerd; not production Cloudflare latency",
+  "baseURL": "http://127.0.0.1:8790",
+  "concurrentRooms": 5,
+  "independentClients": 10,
+  "roundsPerRoom": 1,
+  "pingMessages": 100,
+  "durationSeconds": 3.15,
+  "roomCreation": {
+    "samples": 5,
+    "minMs": 35.83,
+    "medianMs": 35.9,
+    "p95Ms": 38,
+    "maxMs": 38
+  },
+  "pingRoundTrip": {
+    "samples": 100,
+    "minMs": 0.46,
+    "medianMs": 1.86,
+    "p95Ms": 2.5,
+    "maxMs": 2.84
+  },
+  "lastSubmissionToReveal": {
+    "samples": 10,
+    "minMs": 1.56,
+    "medianMs": 3.26,
+    "p95Ms": 3.31,
+    "maxMs": 3.31
+  },
+  "revealArrivalJitterWithinRoom": {
+    "samples": 5,
+    "minMs": 0.01,
+    "medianMs": 0.03,
+    "p95Ms": 0.07,
+    "maxMs": 0.07
+  },
+  "clientTestProcessMemory": {
+    "baselineRSSMiB": 46.14,
+    "endingRSSMiB": 100.42,
+    "baselineHeapUsedMiB": 4.59,
+    "endingHeapUsedMiB": 11.78,
+    "scope": "Only this Node test client process, not Worker memory or a sustained-leak result"
+  }
+}

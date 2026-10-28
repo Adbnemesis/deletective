@@ -1,0 +1,186 @@
+{
+  "review_date": "2026-10-28",
+  "sources": [
+    {
+      "repo": "coreyhaines31/marketingskills",
+      "commit": "0cd9b3a0ef4c411a1d690419ce843f2a1da32cce",
+      "paths": [
+        "skills/seo-audit",
+        "skills/ai-seo",
+        "skills/programmatic-seo"
+      ],
+      "exit": 0,
+      "output": "Installed seo-audit to /Users/talus/Documents/deletective/tools/seo-skills/coreyhaines31/seo-audit\nInstalled ai-seo to /Users/talus/Documents/deletective/tools/seo-skills/coreyhaines31/ai-seo\nInstalled programmatic-seo to /Users/talus/Documents/deletective/tools/seo-skills/coreyhaines31/programmatic-seo",
+      "error": "",
+      "html_url": "https://github.com/coreyhaines31/marketingskills",
+      "pushed_at": "2026-10-27T21:16:06Z",
+      "updated_at": "2026-10-28T15:51:54Z",
+      "archived": false,
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "default_branch": "main"
+    },
+    {
+      "repo": "addyosmani/web-quality-skills",
+      "commit": "afa8da942115f2961fdbfa80807ea0b232ff6c00",
+      "paths": [
+        "skills/seo"
+      ],
+      "exit": 0,
+      "output": "Installed seo to /Users/talus/Documents/deletective/tools/seo-skills/addyosmani/seo",
+      "error": "",
+      "html_url": "https://github.com/addyosmani/web-quality-skills",
+      "pushed_at": "2026-08-24T21:07:36Z",
+      "updated_at": "2026-10-28T14:18:17Z",
+      "archived": false,
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "default_branch": "main"
+    },
+    {
+      "repo": "resciencelab/opc-skills",
+      "commit": "484fa3204e5f3ba400d084ed4f75ca1d722b5a6c",
+      "paths": [
+        "skills/seo-geo"
+      ],
+      "exit": 0,
+      "output": "Installed seo-geo to /Users/talus/Documents/deletective/tools/seo-skills/resciencelab/seo-geo",
+      "error": "",
+      "html_url": "https://github.com/ReScienceLab/opc-skills",
+      "pushed_at": "2026-10-28T06:20:14Z",
+      "updated_at": "2026-10-28T06:20:19Z",
+      "archived": false,
+      "license": {
+        "key": "apache-2.0",
+        "name": "Apache License 2.0",
+        "spdx_id": "Apache-2.0",
+        "url": "https://api.github.com/licenses/apache-2.0",
+        "node_id": "MDc6TGljZW5zZTI="
+      },
+      "default_branch": "main"
+    },
+    {
+      "repo": "iannuttall/seo",
+      "commit": "69a8ea2f86909a4054ba7bc72eadd9fe86053407",
+      "paths": [
+        "skills/seo"
+      ],
+      "exit": 0,
+      "output": "Installed seo to /Users/talus/Documents/deletective/tools/seo-skills/iannuttall/seo",
+      "error": "",
+      "html_url": "https://github.com/iannuttall/seo",
+      "pushed_at": "2026-10-23T17:09:18Z",
+      "updated_at": "2026-10-28T13:15:08Z",
+      "archived": false,
+      "license": {
+        "key": "apache-2.0",
+        "name": "Apache License 2.0",
+        "spdx_id": "Apache-2.0",
+        "url": "https://api.github.com/licenses/apache-2.0",
+        "node_id": "MDc6TGljZW5zZTI="
+      },
+      "default_branch": "main"
+    },
+    {
+      "repo": "sanity-io/agent-toolkit",
+      "commit": "3ed3a143f8d3413faa7790ac0b2274fd3a8a6320",
+      "paths": [
+        "skills/seo-aeo-best-practices"
+      ],
+      "exit": 0,
+      "output": "Installed seo-aeo-best-practices to /Users/talus/Documents/deletective/tools/seo-skills/sanity-io/seo-aeo-best-practices",
+      "error": "",
+      "html_url": "https://github.com/sanity-io/agent-toolkit",
+      "pushed_at": "2026-10-27T20:59:12Z",
+      "updated_at": "2026-10-27T20:59:15Z",
+      "archived": false,
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "default_branch": "main"
+    },
+    {
+      "repo": "agricidaniel/claude-seo",
+      "commit": "6be93f45064ffbadced572b5d5c95f55fd263af0",
+      "paths": [
+        "skills/seo",
+        "skills/seo-competitor-pages",
+        "skills/seo-content",
+        "skills/seo-sitemap"
+      ],
+      "exit": 0,
+      "output": "Installed seo to /Users/talus/Documents/deletective/tools/seo-skills/agricidaniel/seo\nInstalled seo-competitor-pages to /Users/talus/Documents/deletective/tools/seo-skills/agricidaniel/seo-competitor-pages\nInstalled seo-content to /Users/talus/Documents/deletective/tools/seo-skills/agricidaniel/seo-content\nInstalled seo-sitemap to /Users/talus/Documents/deletective/tools/seo-skills/agricidaniel/seo-sitemap",
+      "error": "",
+      "html_url": "https://github.com/AgriciDaniel/claude-seo",
+      "pushed_at": "2026-10-22T16:47:40Z",
+      "updated_at": "2026-10-28T15:50:55Z",
+      "archived": false,
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "default_branch": "main"
+    },
+    {
+      "repo": "anthropics/knowledge-work-plugins",
+      "commit": "2574e29377c7173d0cecffef29a6ecbd7f8ccb5d",
+      "paths": [
+        "marketing/skills/seo-audit"
+      ],
+      "exit": 0,
+      "output": "Installed seo-audit to /Users/talus/Documents/deletective/tools/seo-skills/anthropics/seo-audit",
+      "error": "",
+      "html_url": "https://github.com/anthropics/knowledge-work-plugins",
+      "pushed_at": "2026-10-28T07:28:08Z",
+      "updated_at": "2026-10-28T15:52:17Z",
+      "archived": false,
+      "license": {
+        "key": "apache-2.0",
+        "name": "Apache License 2.0",
+        "spdx_id": "Apache-2.0",
+        "url": "https://api.github.com/licenses/apache-2.0",
+        "node_id": "MDc6TGljZW5zZTI="
+      },
+      "default_branch": "main"
+    },
+    {
+      "repo": "aaron-he-zhu/aaron-marketing-skills",
+      "commit": "a253bd3018e7ec8199c1472723ae63db48833b64",
+      "paths": [
+        "seo-geo/implement/content-writer"
+      ],
+      "exit": 0,
+      "output": "Installed content-writer to /Users/talus/Documents/deletective/tools/seo-skills/aaron-he-zhu/content-writer",
+      "error": "",
+      "html_url": "https://github.com/aaron-he-zhu/aaron-marketing-skills",
+      "pushed_at": "2026-10-28T11:58:44Z",
+      "updated_at": "2026-10-28T15:08:15Z",
+      "archived": false,
+      "license": {
+        "key": "apache-2.0",
+        "name": "Apache License 2.0",
+        "spdx_id": "Apache-2.0",
+        "url": "https://api.github.com/licenses/apache-2.0",
+        "node_id": "MDc6TGljZW5zZTI="
+      },
+      "default_branch": "main"
+    }
+  ]
+}

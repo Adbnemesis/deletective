@@ -1,0 +1,47 @@
+{
+  "bootstrap": "https://data.iana.org/rdap/dns.json",
+  "results": [
+    {
+      "domain": "deletective.com",
+      "checked_at": "2026-10-28T15:56:56.546123+00:00",
+      "iana_bootstrap_urls": [
+        "https://rdap.verisign.com/com/v1/"
+      ],
+      "queried_url": "https://rdap.verisign.com/com/v1/domain/deletective.com",
+      "http_status": 404,
+      "result": "No matching domain object (not proof of purchasability)"
+    },
+    {
+      "domain": "playdeletective.com",
+      "checked_at": "2026-10-28T15:56:56.546407+00:00",
+      "iana_bootstrap_urls": [
+        "https://rdap.verisign.com/com/v1/"
+      ],
+      "queried_url": "https://rdap.verisign.com/com/v1/domain/playdeletective.com",
+      "http_status": 404,
+      "result": "No matching domain object (not proof of purchasability)"
+    },
+    {
+      "domain": "deletective.gg",
+      "checked_at": "2026-10-28T15:56:56.546584+00:00",
+      "iana_bootstrap_urls": [],
+      "result": "No RDAP endpoint in IANA bootstrap; registrar/registry lookup still required"
+    },
+    {
+      "domain": "deletective.game",
+      "checked_at": "2026-10-28T15:56:56.546663+00:00",
+      "iana_bootstrap_urls": [
+        "https://rdap.centralnic.com/game/"
+      ],
+      "queried_url": "https://rdap.centralnic.com/game/domain/deletective.game",
+      "http_status": 404,
+      "result": "No matching domain object (not proof of purchasability)"
+    },
+    {
+      "domain": "deletective.io",
+      "checked_at": "2026-10-28T15:56:56.546804+00:00",
+      "iana_bootstrap_urls": [],
+      "result": "No RDAP endpoint in IANA bootstrap; registrar/registry lookup still required"
+    }
+  ]
+}

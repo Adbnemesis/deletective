@@ -1,0 +1,7 @@
+---
+import Layout from '../layouts/Layout.astro';
+import Room from '../components/Room';
+---
+<Layout title="Your private chat — Deletective" description="A private Deletective game with your friends. Room content is temporary and is not published." privatePage>
+  <div class="wrap"><div class="app-container"><Room client:load /></div></div>
+</Layout>

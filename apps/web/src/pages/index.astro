@@ -1,0 +1,26 @@
+---
+import Layout from '../layouts/Layout.astro';
+import Demo from '../components/Demo';
+---
+<Layout>
+  <section class="hero wrap">
+    <div class="hero-copy"><div class="eyebrow"><span class="tiny-dot"></span> YOUR GROUP CHAT, BUT MORE UNHINGED</div>
+      <h1>What did<br/>they <span class="highlight-word">delete<svg viewBox="0 0 270 16" aria-hidden="true"><path d="M3 10Q135-3 265 8M18 15Q139 4 251 14" fill="none" stroke="currentColor" stroke-width="4" stroke-linecap="round"/></svg></span><span class="question-mark">?!</span></h1>
+      <p class="hero-description">Read the reactions. Invent the missing message.<br class="desktop-break"/> Make your friends <em>lose it.</em></p>
+      <div class="hero-actions"><a class="button dark large" href="/play">Play with friends <span class="button-arrow" aria-hidden="true">↗</span></a><a class="text-link" href="/daily">Flying solo? Try the daily <span aria-hidden="true">→</span></a></div>
+      <div class="hero-facts"><span><i aria-hidden="true">✓</i> Free, always</span><span><i aria-hidden="true">✓</i> 2–10 players</span><span><i aria-hidden="true">✓</i> No downloads</span></div>
+      <div class="handwritten-note">zero drawing skills. questionable writing skills encouraged.</div>
+    </div>
+    <Demo client:load />
+  </section>
+  <section class="how-strip"><div class="wrap"><div class="section-label">ONE MISSING MESSAGE.<br/><strong>Endless bad explanations.</strong></div><ol class="mini-steps"><li><span>01</span><div><strong>Read the room.</strong><p>A fictional chat. One deleted message.</p></div></li><li><span>02</span><div><strong>Fill in the chaos.</strong><p>Write what you think they deleted.</p></div></li><li><span>03</span><div><strong>Reveal. React. Repeat.</strong><p>See everyone’s take. Try to keep it together.</p></div></li></ol></div></section>
+  <section class="mode-section wrap"><div class="section-heading"><div><span class="eyebrow">GOOD COMPANY. BAD IDEAS.</span><h2>Who’s in the chat?</h2></div><p>Same missing message.<br/>A different kind of chaos.</p></div>
+    <div class="mode-grid">
+      <a class="mode-card mode-lime" href="/2-player"><span class="mode-doodle" aria-hidden="true">☺ ☺</span><span class="mode-count">2 PLAYERS</span><h3>Just us two.</h3><p>One chat. Two wildly different explanations. No judges, just laughs.</p><span class="mode-cta">Play Duo <span aria-hidden="true">↗</span></span></a>
+      <a class="mode-card mode-lavender" href="/party"><span class="mode-doodle" aria-hidden="true">✷ ✳</span><span class="mode-count">3–10 PLAYERS</span><h3>The whole gang.</h3><p>Write in secret. Vote for your favorite. Question your friendships.</p><span class="mode-cta">Start a party <span aria-hidden="true">↗</span></span></a>
+      <a class="mode-card mode-peach" href="/couples"><span class="mode-doodle" aria-hidden="true">♡ ↗</span><span class="mode-count">2 PLAYERS · DATE NIGHT</span><h3>Your plus one.</h3><p>Fictional disasters for your favorite person. Zero relationship quizzes.</p><span class="mode-cta">Play Couples <span aria-hidden="true">↗</span></span></a>
+      <a class="mode-card mode-white" href="/daily"><span class="mode-doodle" aria-hidden="true">☀</span><span class="mode-count">JUST YOU · NEW EVERY DAY</span><h3>A little daily chaos.</h3><p>One deleted message a day. A tiny creative break, all to yourself.</p><span class="mode-cta">Try today’s chat <span aria-hidden="true">↗</span></span></a>
+    </div>
+  </section>
+  <section class="bottom-cta wrap"><span aria-hidden="true">✳</span><div><h2>Your friends have some explaining to do.</h2><p>Send a link. Make something ridiculous together.</p></div><a href="/play" class="button dark">Create a room <span aria-hidden="true">↗</span></a></section>
+</Layout>
